@@ -15,6 +15,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.chrome.options import Options
 
 NOMBRE = input("Introduce un nombre para el archivo de salida (ej: Zara_Niñas_FW2026): ").strip()
 SAVE_PATH = os.getcwd()
@@ -209,6 +210,7 @@ fallos = {}
 
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
+options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 driver = webdriver.Chrome(options=options)
 
 for entrada in entrada_datos:
