@@ -46,7 +46,7 @@ while True:
 print(f"\nTotal de categorías a scrapear: {len(entrada_datos)}\n")
 
 # In[3]:
-CHECKPOINT_PATH = os.path.join(SAVE_PATH, "logs", f"{NOMBRE}_checkpoint.json")
+CHECKPOINT_PATH = os.path.join(SAVE_PATH, "logs", f"{NOMBRE}.json")
 
 if os.path.exists(CHECKPOINT_PATH):
     try:
@@ -89,7 +89,7 @@ print(
 # 3. La función es inteligente: detecta cuando la altura de la página deja de aumentar después de varios intentos, lo que significa que todos los productos han sido cargados, y entonces se detiene.
 
 # In[4]:
-def obtener_urls(driver, pause_time=2, max_wait=5):
+def obtener_urls(driver, pause_time=5, max_wait=5):
     urls = set()
     prev_height = driver.execute_script("return document.body.scrollHeight")
     same_count_rounds = 0
@@ -165,6 +165,49 @@ def extraer_composicion(driver):
     except Exception as e:
         print(f"Error composición: {e}")
         return "N/A"
+
+
+def extraer_imagen_principal(driver):
+    selector_imagen = (
+        "div.product-detail-view__main-image-wrapper "
+        "img.ecs-media-picture__image"
+    )
+
+    try:
+        WebDriverWait(driver, 10).until(
+            lambda d: any(
+                (img.get_attribute("src") or "").startswith("http")
+                or img.get_attribute("srcset")
+                for img in d.find_elements(By.CSS_SELECTOR, selector_imagen)
+            )
+        )
+    except TimeoutException:
+        return "N/A"
+
+    imagenes = driver.find_elements(By.CSS_SELECTOR, selector_imagen)
+    candidatos = []
+
+    for imagen in imagenes:
+        srcset = imagen.get_attribute("srcset") or ""
+        for candidato in srcset.split(","):
+            partes = candidato.strip().split()
+            if not partes:
+                continue
+            ancho = 0
+            if len(partes) > 1:
+                coincidencia = re.search(r"(\d+)w$", partes[1])
+                if coincidencia:
+                    ancho = int(coincidencia.group(1))
+            candidatos.append((ancho, partes[0]))
+
+        src = imagen.get_attribute("src") or ""
+        if src.startswith("http"):
+            candidatos.append((0, src))
+
+    if not candidatos:
+        return "N/A"
+
+    return max(candidatos, key=lambda candidato: candidato[0])[1]
 
 # En esta parte del script, donde se procesa cada producto y sus variantes.
 # 1. Inicialización: Se crea una instancia del navegador Chrome y un DataFrame de Pandas vacío.
@@ -329,21 +372,7 @@ for entrada in entrada_datos:
 
                     composicion = extraer_composicion(driver)
 
-                    try:
-                        imagenes = driver.find_elements(
-                            By.CSS_SELECTOR,
-                            "div.media-core.product-detail-image__image img.ecs-media-picture__image"
-                        )
-                        imagen_url = "N/A"
-                        for img in imagenes:
-                            src = img.get_attribute("src")
-                            if src and "transparent" not in src and "data:" not in src:
-                                imagen_url = src
-                                break
-                        if imagen_url == "N/A" and imagenes:
-                            imagen_url = imagenes[0].get_attribute("src") or "N/A"
-                    except:
-                        imagen_url = "N/A"
+                    imagen_url = extraer_imagen_principal(driver)
 
                     try:
                         SKU_COMPLETO = driver.find_element(
