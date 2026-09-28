@@ -8,6 +8,8 @@ import os
 import time
 from selenium.webdriver.common.by import By
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
 entrada = "Zara_Niños_FW2026_2026-09-23" #Nombre del Json
@@ -19,9 +21,11 @@ CHECKPOINT_PATH = os.path.join(ruta_actual,F"{entrada}.json" )
 
 def extraer_composicion(driver):
     try:
-        elem = driver.find_element(
-            By.CSS_SELECTOR,
-            "div.product-detail-composition.product-detail-view__detailed-composition" #main > div > div > div > div.product-detail-view-std > article > div.product-detail-view__secondary-content > div > div
+        elem = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((
+                By.CSS_SELECTOR,
+                "div.product-detail-composition.product-detail-view__detailed-composition"
+            ))
         )
         texto = elem.text.strip()
         if ":" in texto:
@@ -30,6 +34,49 @@ def extraer_composicion(driver):
     except Exception as e:
         print(f"Error composición: {e}")
         return "N/A"
+
+
+def extraer_imagen_principal(driver):
+    try:
+        elementos = WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((
+                By.CSS_SELECTOR,
+                "button.product-detail-card__main-image picture source[srcset], "
+                "button.product-detail-card__main-image picture img, "
+                "div.product-detail-card__main-image-wrapper picture source[srcset], "
+                "div.product-detail-card__main-image-wrapper picture img, "
+                "div.product-detail-image__image img"
+            ))
+        )
+    except Exception as e:
+        print(
+            "No se pudo localizar la imagen: "
+            f"title={driver.title!r}, url={driver.current_url!r}, error={type(e).__name__}"
+        )
+        return "N/A"
+
+    candidatos = []
+    for elemento in elementos:
+        srcset = elemento.get_attribute("srcset")
+        if srcset:
+            for candidato in srcset.split(","):
+                partes = candidato.strip().split()
+                if not partes:
+                    continue
+                ancho = 0
+                if len(partes) > 1 and partes[1].endswith("w"):
+                    try:
+                        ancho = int(partes[1][:-1])
+                    except ValueError:
+                        pass
+                candidatos.append((ancho, partes[0]))
+
+        for atributo in ("src", "data-src"):
+            url = elemento.get_attribute(atributo)
+            if url and not url.startswith("data:") and "transparent" not in url:
+                candidatos.append((0, url))
+
+    return max(candidatos, key=lambda candidato: candidato[0])[1] if candidatos else "N/A"
 
 
 if os.path.exists(CHECKPOINT_PATH):
@@ -52,6 +99,7 @@ filas = datos["filas"]
 #Vamos a extraer el dato faltante
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
+options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 driver = webdriver.Chrome(options=options)
 
 try:
@@ -60,19 +108,12 @@ try:
 
             try:
                 driver.get(a["URL"])
-                time.sleep(3)
-                imagenes = driver.find_elements(
-                    By.CSS_SELECTOR,
-                    "div.media-core.product-detail-image__image img.ecs-media-picture__image"
-                )
-                imagen_url = "N/A"
-                for img in imagenes:
-                    src = img.get_attribute("src")
-                    if src and "transparent" not in src and "data:" not in src:
-                        imagen_url = src
-                        break
-                if imagen_url == "N/A" and imagenes:
-                    imagen_url = imagenes[0].get_attribute("src") or "N/A"
+                imagen_url = extraer_imagen_principal(driver)
+                if imagen_url == "N/A":
+                    print("Reintentando la página después de una pausa...")
+                    time.sleep(3)
+                    driver.get(a["URL"])
+                    imagen_url = extraer_imagen_principal(driver)
 
                 if(imagen_url == "N/A"):
                     print(f"No se encontró una imagen válida para la URL: {a['URL']}")
@@ -83,17 +124,21 @@ try:
             finally:
                 print(f"Procesado: {a['URL']} - Imagen: {a['IMAGEN']}")
 
-            if(a["COMPOSICIÓN"]=="N/A" ):
-                a["COMPOSICIÓN"] = extraer_composicion(driver)
+        if(a["COMPOSICIÓN"]=="N/A" ):
+            a["COMPOSICIÓN"] = extraer_composicion(driver)
 
-            if(a["PRODUCTO"]== "N/A"):
-                try :
-                    driver.find_element(
-                            By.CSS_SELECTOR,
-                            "h1.product-detail-info__header-name"
-                    ).text.strip()
-                except:
-                    PRODUCTO = "N/A"
+        if(a["PRODUCTO"]== "N/A"):
+            try :
+                producto = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((
+                        By.CSS_SELECTOR,
+                        "h1.product-detail-info__header-name"
+                    ))
+                )
+                a["PRODUCTO"] = producto.text.strip() or "N/A"
+            except Exception as e:
+                print(f"Error producto: {e}")
+                a["PRODUCTO"] = "N/A"
                 
 
                 

@@ -1,754 +1,4 @@
 {
-  "productos_escaneados": [
-    "https://www.zara.com/mx/es/abrigo-acolchado-capucha-water-repellent-p00562704.html",
-    "https://www.zara.com/mx/es/abrigo-acolchado-engomado-impermeable-p04323702.html",
-    "https://www.zara.com/mx/es/abrigo-acolchado-engomado-water-repellent-p05644701.html",
-    "https://www.zara.com/mx/es/abrigo-con-lana-manteco-p06366284.html",
-    "https://www.zara.com/mx/es/abrigo-corto-con-lana-manteco-p06367288.html",
-    "https://www.zara.com/mx/es/abrigo-corto-con-lana-p08491711.html",
-    "https://www.zara.com/mx/es/abrigo-de-pano-con-cuello-de-solapas-p08491709.html",
-    "https://www.zara.com/mx/es/abrigo-engomado-acolchado-rib-p05854715.html",
-    "https://www.zara.com/mx/es/abrigo-largo-acolchado-water-repellent-p05992763.html",
-    "https://www.zara.com/mx/es/abrigo-largo-de-cuadros-con-lana-p08491708.html",
-    "https://www.zara.com/mx/es/abrigo-largo-de-pano-con-botones-p08491704.html",
-    "https://www.zara.com/mx/es/bandolera-nylon-p11173830.html",
-    "https://www.zara.com/mx/es/bermuda-a-cuadros-clara-cebrian---p04805663.html",
-    "https://www.zara.com/mx/es/bermuda-cargo-baggy-p06103702.html",
-    "https://www.zara.com/mx/es/bermuda-con-botones-p06219249.html",
-    "https://www.zara.com/mx/es/bermuda-de-felpa-con-encaje-p09007732.html",
-    "https://www.zara.com/mx/es/bermuda-de-mezclilla-con-cordones-p00595619.html",
-    "https://www.zara.com/mx/es/bermuda-de-mezclilla-estrellas-p00595740.html",
-    "https://www.zara.com/mx/es/bermuda-de-mezclilla-larga-p00595725.html",
-    "https://www.zara.com/mx/es/bermuda-de-mezclilla-larga-p00621701.html",
-    "https://www.zara.com/mx/es/bermuda-de-rayas-efecto-toalla-clara-cebrian---p05431772.html",
-    "https://www.zara.com/mx/es/bermuda-de-rayas-heavy-weight-p01716702.html",
-    "https://www.zara.com/mx/es/bermuda-denim-estrellas-p00159603.html",
-    "https://www.zara.com/mx/es/bermuda-detalle-tachas-y-estrellas-p04786755.html",
-    "https://www.zara.com/mx/es/bermuda-estampada-cinnamoroll---sanrio-p02614704.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-argentina-fifa-world-cup---2026-p06208718.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-argentina-p09007721.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-capibara-capyfun---p05431704.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-cuadros-p06169098.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-de-numero-p05431722.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-estrella-p05431732.html",
-    "https://www.zara.com/mx/es/bermuda-estampado-francia-p09007707.html",
-    "https://www.zara.com/mx/es/bermuda-etiqueta-fruit-of-the-loom--p04644709.html",
-    "https://www.zara.com/mx/es/bermuda-fluida-sporty-con-modal-p02236797.html",
-    "https://www.zara.com/mx/es/bermuda-gym-vivos-p08054702.html",
-    "https://www.zara.com/mx/es/bermuda-heavy-jersey-lisa-p05048702.html",
-    "https://www.zara.com/mx/es/bermuda-heavy-weight-p04424702.html",
-    "https://www.zara.com/mx/es/bermuda-heavy-weight-p05431700.html",
-    "https://www.zara.com/mx/es/bermuda-larga-carpenter-rayas-p00327703.html",
-    "https://www.zara.com/mx/es/bermuda-larga-estampado-print-p05431746.html",
-    "https://www.zara.com/mx/es/bermuda-larga-estampado-texto-p06333704.html",
-    "https://www.zara.com/mx/es/bermuda-larga-pinzas-p06351081.html",
-    "https://www.zara.com/mx/es/bermuda-larga-velvet-p02548750.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-crochet-p00595720.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-crochet-p00595721.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-estrellas-p04551638.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-larga-fruit-of-the-loom--p00327705.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-larga-p04441681.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-p04551624.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-p07227606.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-rotos-p04551605.html",
-    "https://www.zara.com/mx/es/bermuda-mezclilla-rotos-p04551700.html",
-    "https://www.zara.com/mx/es/bermuda-parche-estrella-lentejuelas-p06333700.html",
-    "https://www.zara.com/mx/es/bermuda-pespuntes-rojos-p01638260.html",
-    "https://www.zara.com/mx/es/bermuda-rayas-p01608261.html",
-    "https://www.zara.com/mx/es/bermuda-rayas-vivo-contraste-p01608260.html",
-    "https://www.zara.com/mx/es/bermuda-rotos-strass-p07227620.html",
-    "https://www.zara.com/mx/es/bermuda-texto-vivo-contraste-p05431710.html",
-    "https://www.zara.com/mx/es/bermudas-largas-estampadas-p00327725.html",
-    "https://www.zara.com/mx/es/bermudas-mezclilla-flores-strass-p00595705.html",
-    "https://www.zara.com/mx/es/bermudas-mezclilla-strass-p00595706.html",
-    "https://www.zara.com/mx/es/bl-flrl-drss-p06115416.html",
-    "https://www.zara.com/mx/es/blazer-liso-p06187081.html",
-    "https://www.zara.com/mx/es/blln-tnk-tp-p06858700.html",
-    "https://www.zara.com/mx/es/blusa-cuadro-vichy-p06362441.html",
-    "https://www.zara.com/mx/es/blusa-cuello-schiffly-p06205230.html",
-    "https://www.zara.com/mx/es/blusa-elasticos-rayas-p06194238.html",
-    "https://www.zara.com/mx/es/blusa-globo-flores-bordadas-p01381700.html",
-    "https://www.zara.com/mx/es/blusa-jaretas-flores-p06100134.html",
-    "https://www.zara.com/mx/es/body-liso-manga-larga-p00962710.html",
-    "https://www.zara.com/mx/es/body-mangas-volante-tachas-p07950701.html",
-    "https://www.zara.com/mx/es/body-poliamida-cut-out-p00962701.html",
-    "https://www.zara.com/mx/es/body-poliamida-manga-corta-p08675705.html",
-    "https://www.zara.com/mx/es/body-poliamida-manga-sisa-p09006736.html",
-    "https://www.zara.com/mx/es/bolsa-shopper-color-p11277830.html",
-    "https://www.zara.com/mx/es/bowling-acolchada-p11157830.html",
-    "https://www.zara.com/mx/es/camisa-alamares-jaretas-p05107700.html",
-    "https://www.zara.com/mx/es/camisa-aplique-strass-p04786738.html",
-    "https://www.zara.com/mx/es/camisa-canesu-cowboy-p04786724.html",
-    "https://www.zara.com/mx/es/camisa-combinada-con-chaleco-de-punto-y-botones-p04786737.html",
-    "https://www.zara.com/mx/es/camisa-con-cuello-bordado-p06166773.html",
-    "https://www.zara.com/mx/es/camisa-con-jaretas-a-rayas-p06259477.html",
-    "https://www.zara.com/mx/es/camisa-cuello-alto-elastico-p06134167.html",
-    "https://www.zara.com/mx/es/camisa-cuello-bobo-bordado-p08741700.html",
-    "https://www.zara.com/mx/es/camisa-cuello-bobo-encaje-p05644724.html",
-    "https://www.zara.com/mx/es/camisa-cuello-bobo-estampado-rayas-p06204241.html",
-    "https://www.zara.com/mx/es/camisa-de-mezclilla-cuello-marinero-p04441714.html",
-    "https://www.zara.com/mx/es/camisa-entallada-frunces-p06043049.html",
-    "https://www.zara.com/mx/es/camisa-estampado-cuadros-y-elastico-p01639730.html",
-    "https://www.zara.com/mx/es/camisa-estampado-de-cuadros-p03798680.html",
-    "https://www.zara.com/mx/es/camisa-estampado-de-cuadros-p06129127.html",
-    "https://www.zara.com/mx/es/camisa-estampado-flores-p06135252.html",
-    "https://www.zara.com/mx/es/camisa-globo-cuadros-p08741718.html",
-    "https://www.zara.com/mx/es/camisa-mezclilla-costura-p00595702.html",
-    "https://www.zara.com/mx/es/camisa-oxford-fruit-of-the-loom--p04644708.html",
-    "https://www.zara.com/mx/es/camisa-popelina-lisa-p05644610.html",
-    "https://www.zara.com/mx/es/camisa-rayas-aplique-alamares-p06128148.html",
-    "https://www.zara.com/mx/es/camisa-rayas-globo-p07484720.html",
-    "https://www.zara.com/mx/es/camisa-romantica-bordada-con-jaretas-p07521713.html",
-    "https://www.zara.com/mx/es/camisa-romantica-bordados-p08741610.html",
-    "https://www.zara.com/mx/es/camisa-romantica-canesu-bordado-p05107701.html",
-    "https://www.zara.com/mx/es/camisa-romantica-con-resorte-p08741720.html",
-    "https://www.zara.com/mx/es/camisa-volanes-y-tachas-p06410442.html",
-    "https://www.zara.com/mx/es/camiseta%C2%A0camiseta-estampado-kpop-demon-hunters--netflix---p05643702.html",
-    "https://www.zara.com/mx/es/camiseta-bordado-suizo-p01165701.html",
-    "https://www.zara.com/mx/es/camiseta-doble-interlock-p04174701.html",
-    "https://www.zara.com/mx/es/camiseta-estampada-rayas-p04424708.html",
-    "https://www.zara.com/mx/es/camiseta-estampado-argentina-p09000704.html",
-    "https://www.zara.com/mx/es/camiseta-estampado-texto-p00722711.html",
-    "https://www.zara.com/mx/es/camiseta-fluida-sporty-con-modal-p02236798.html",
-    "https://www.zara.com/mx/es/camiseta-lisa-algodon-y-modal-p03641700.html",
-    "https://www.zara.com/mx/es/camiseta-lisa-interlock-p04174702.html",
-    "https://www.zara.com/mx/es/camiseta-numero-brillo-p01165713.html",
-    "https://www.zara.com/mx/es/camiseta-pochacco---sanrio-p05580704.html",
-    "https://www.zara.com/mx/es/camiseta-rayas-con-algodon-y-modal-p03641701.html",
-    "https://www.zara.com/mx/es/camiseta-soft-rayas-p04174703.html",
-    "https://www.zara.com/mx/es/camiseta-texto-mexico-p09006715.html",
-    "https://www.zara.com/mx/es/camiseta-zara-larsson%C2%A0--p02160701.html",
-    "https://www.zara.com/mx/es/cardigan-100-cashmere-p01505703.html",
-    "https://www.zara.com/mx/es/cardigan-crochet-flores-p03920701.html",
-    "https://www.zara.com/mx/es/cardigan-cruzado-p05755705.html",
-    "https://www.zara.com/mx/es/cardigan-de-punto-canale-p00339711.html",
-    "https://www.zara.com/mx/es/cardigan-de-punto-con-ochos-fruit-of-the-loom--p03920763.html",
-    "https://www.zara.com/mx/es/cardigan-de-punto-rayas-p00339707.html",
-    "https://www.zara.com/mx/es/cardigan-p05755607.html",
-    "https://www.zara.com/mx/es/cardigan-punto-capucha-rayas-p03471710.html",
-    "https://www.zara.com/mx/es/cardigan-punto-cuello-en-v-p05536702.html",
-    "https://www.zara.com/mx/es/cardigan-punto-estampado-rayas-y-texto-p03991700.html",
-    "https://www.zara.com/mx/es/cardigan-punto-liso-p05536712.html",
-    "https://www.zara.com/mx/es/cardigan-punto-p05987705.html",
-    "https://www.zara.com/mx/es/cardigan-punto-rayas-volante-p05536727.html",
-    "https://www.zara.com/mx/es/cardigan-punto-ribete-contraste-p00339710.html",
-    "https://www.zara.com/mx/es/cardigan-punto-volantes-contraste-p09874708.html",
-    "https://www.zara.com/mx/es/cardigan-punto-zipper-p09874703.html",
-    "https://www.zara.com/mx/es/cazadora-bomber-efecto-ante-p00562707.html",
-    "https://www.zara.com/mx/es/cazadora-bomber-efecto-ante-p01689700.html",
-    "https://www.zara.com/mx/es/cazadora-bomber-efecto-piel-p00562700.html",
-    "https://www.zara.com/mx/es/cazadora-efecto-pelo-p00248701.html",
-    "https://www.zara.com/mx/es/cazadora-ultraligera-water-repellent-p03918761.html",
-    "https://www.zara.com/mx/es/cazadora-water-repelent-frunce-p03153701.html",
-    "https://www.zara.com/mx/es/chaleco-efecto-pelo-capucha-p00248706.html",
-    "https://www.zara.com/mx/es/chaleo-cruzado-cuello-mao-p06044034.html",
-    "https://www.zara.com/mx/es/chamarra-100-piel-bolsillos-p08073710.html",
-    "https://www.zara.com/mx/es/chamarra-100-piel-p00562760.html",
-    "https://www.zara.com/mx/es/chamarra-100-piel-p08073720.html",
-    "https://www.zara.com/mx/es/chamarra-acolchada-capucha-water-repellent-p05854702.html",
-    "https://www.zara.com/mx/es/chamarra-acolchada-combinada-con-capucha-p08073702.html",
-    "https://www.zara.com/mx/es/chamarra-acolchada-micropana-estrellas-p05854720.html",
-    "https://www.zara.com/mx/es/chamarra-acolchada-reversible-estampado-de-cuadros-p05854706.html",
-    "https://www.zara.com/mx/es/chamarra-ante-100-piel-p00562741.html",
-    "https://www.zara.com/mx/es/chamarra-bomber-acolchada-p01689702.html",
-    "https://www.zara.com/mx/es/chamarra-bomber-efecto-piel-p00562701.html",
-    "https://www.zara.com/mx/es/chamarra-bomber-estampado-cuadros-p05854719.html",
-    "https://www.zara.com/mx/es/chamarra-bordada-fruit-of-the-loom--p05644797.html",
-    "https://www.zara.com/mx/es/chamarra-capucha-estampado-miami-p05431739.html",
-    "https://www.zara.com/mx/es/chamarra-capucha-neopreno-p08073707.html",
-    "https://www.zara.com/mx/es/chamarra-capucha-sporty-vivo-rayas-p02236715.html",
-    "https://www.zara.com/mx/es/chamarra-color-block-uefa-champions-league---p03121762.html",
-    "https://www.zara.com/mx/es/chamarra-corta-lisa-p06188081.html",
-    "https://www.zara.com/mx/es/chamarra-de-mezclilla-bordada-fruit-of-the-loom--p04644701.html",
-    "https://www.zara.com/mx/es/chamarra-de-mezclilla-con-alamares-p00595704.html",
-    "https://www.zara.com/mx/es/chamarra-de-mezclilla-globo-p06103701.html",
-    "https://www.zara.com/mx/es/chamarra-de-mezclilla-p00159704.html",
-    "https://www.zara.com/mx/es/chamarra-de-mezclilla-p04551608.html",
-    "https://www.zara.com/mx/es/chamarra-de-pano-con-botones-p03183702.html",
-    "https://www.zara.com/mx/es/chamarra-efecto-pelo-p00248703.html",
-    "https://www.zara.com/mx/es/chamarra-efecto-pelo-p05644814.html",
-    "https://www.zara.com/mx/es/chamarra-efecto-piel-cruzada-p00562708.html",
-    "https://www.zara.com/mx/es/chamarra-efecto-piel-doble-faz-p00562712.html",
-    "https://www.zara.com/mx/es/chamarra-encerada-cuello-combinado-p05854707.html",
-    "https://www.zara.com/mx/es/chamarra-entallada-botones-p01689701.html",
-    "https://www.zara.com/mx/es/chamarra-estampada-pata-de-gallo-p05854708.html",
-    "https://www.zara.com/mx/es/chamarra-estrellas-p03183701.html",
-    "https://www.zara.com/mx/es/chamarra-etiqueta-fruit-of-the-loom-p01255719.html",
-    "https://www.zara.com/mx/es/chamarra-nylon-color-block-fruit-of-the-loom--p05854729.html",
-    "https://www.zara.com/mx/es/chamarra-sarga-efecto-lavado-p06688708.html",
-    "https://www.zara.com/mx/es/chamarra-soft-globo-p08491710.html",
-    "https://www.zara.com/mx/es/chamarra-sporty-tecnica-color-block-p03153704.html",
-    "https://www.zara.com/mx/es/chamarra-sporty-vivo-contraste-p08054723.html",
-    "https://www.zara.com/mx/es/chaqueta-capucha-gym-p02236703.html",
-    "https://www.zara.com/mx/es/chaqueta-capucha-gym-p08054701.html",
-    "https://www.zara.com/mx/es/chaqueta-con-capucha-waffle-gym-p03183707.html",
-    "https://www.zara.com/mx/es/chaqueta-gym-p00673710.html",
-    "https://www.zara.com/mx/es/chaqueta-tecnica-gym-p02878715.html",
-    "https://www.zara.com/mx/es/chubasquero-capucha-water-repellent-p08073705.html",
-    "https://www.zara.com/mx/es/conjunto-camiseta-y-bermuda-interlock-p09007005.html",
-    "https://www.zara.com/mx/es/conjunto-interlock-sudadera-doble-y-pantalon-pierna-ancha-p00613709.html",
-    "https://www.zara.com/mx/es/conjunto-jogging-camiseta-y-bermuda-liso-p00257700.html",
-    "https://www.zara.com/mx/es/conjunto-playera-rayas-y-pantalon-pierna-ancha-p00613705.html",
-    "https://www.zara.com/mx/es/conjunto-playera-y-pantalon-globo-efecto-lavado-p00613701.html",
-    "https://www.zara.com/mx/es/conjunto-rib-top-y-pantalon-straight-p00613700.html",
-    "https://www.zara.com/mx/es/conjunto-sudadera-y-pantalon-acampanado-liso-p00613703.html",
-    "https://www.zara.com/mx/es/conjunto-sudadera-y-pantalon-efecto-lavado-p03402704.html",
-    "https://www.zara.com/mx/es/denim-straight-rotos-p04551701.html",
-    "https://www.zara.com/mx/es/falda-alamares-y-botones-p01608701.html",
-    "https://www.zara.com/mx/es/falda-bermuda-de-mezclilla-con-brillos-p03333703.html",
-    "https://www.zara.com/mx/es/falda-bermuda-de-mezclilla-con-estoperoles-p07513700.html",
-    "https://www.zara.com/mx/es/falda-bermuda-denim-p04147611.html",
-    "https://www.zara.com/mx/es/falda-bermuda-denim-tachuelas-p03333704.html",
-    "https://www.zara.com/mx/es/falda-bermuda-efecto-piel-p03153800.html",
-    "https://www.zara.com/mx/es/falda-cargo-bolsillos-rayas-p06220236.html",
-    "https://www.zara.com/mx/es/falda-con-estampado-floral-p06286420.html",
-    "https://www.zara.com/mx/es/falda-con-olan-y-bordado-ny-p06333702.html",
-    "https://www.zara.com/mx/es/falda-de-punto-con-tablas-p05536708.html",
-    "https://www.zara.com/mx/es/falda-efecto-piel-tablas-p00562751.html",
-    "https://www.zara.com/mx/es/falda-estampada-de-flores-p06175215.html",
-    "https://www.zara.com/mx/es/falda-globo-lunares-p06091056.html",
-    "https://www.zara.com/mx/es/falda-gym-con-vuelta-p02236712.html",
-    "https://www.zara.com/mx/es/falda-lisa-de-pana-p06240325.html",
-    "https://www.zara.com/mx/es/falda-lisa-de-tablas-p02511007.html",
-    "https://www.zara.com/mx/es/falda-mezclilla-olanes-p04147700.html",
-    "https://www.zara.com/mx/es/falda-mezclilla-plisada-p04152601.html",
-    "https://www.zara.com/mx/es/falda-olan-estampada-p01681703.html",
-    "https://www.zara.com/mx/es/falda-olanes-cintura-vuelta-p01165721.html",
-    "https://www.zara.com/mx/es/falda-olanes-contraste-p09874707.html",
-    "https://www.zara.com/mx/es/falda-olanes-flores-p02511702.html",
-    "https://www.zara.com/mx/es/falda-olanes-lentejuelas-p02511701.html",
-    "https://www.zara.com/mx/es/falda-punto-bajo-contraste-p05987706.html",
-    "https://www.zara.com/mx/es/falda-rayas-con-modal-p01639810.html",
-    "https://www.zara.com/mx/es/falda-tablas-aplique-hebillas-p06294249.html",
-    "https://www.zara.com/mx/es/falda-tablas-botones-p06142081.html",
-    "https://www.zara.com/mx/es/falda-tablas-cuadros-aplique-botones-p01639765.html",
-    "https://www.zara.com/mx/es/falda-tablas-cuadros-hebilla-p01608760.html",
-    "https://www.zara.com/mx/es/falda-tablas-cuadros-hebilla-p01608765.html",
-    "https://www.zara.com/mx/es/falda-tablas-cuadros-p06131176.html",
-    "https://www.zara.com/mx/es/falda-tablas-cuadros-p06160196.html",
-    "https://www.zara.com/mx/es/falda-tablas-estampado-rayas-p02402760.html",
-    "https://www.zara.com/mx/es/falda-tablas-lisa-p06196210.html",
-    "https://www.zara.com/mx/es/falda-tablas-sporty-p00673700.html",
-    "https://www.zara.com/mx/es/falda-tableado-lisa-p09003700.html",
-    "https://www.zara.com/mx/es/falda-vuelta-bandas-p01165714.html",
-    "https://www.zara.com/mx/es/flrs-shrt-p06110413.html",
-    "https://www.zara.com/mx/es/gabardina-con-forro-acolchado-p04323701.html",
-    "https://www.zara.com/mx/es/gabardina-manga-ranglan-p04323710.html",
-    "https://www.zara.com/mx/es/hoodie-argentina-p05643700.html",
-    "https://www.zara.com/mx/es/hoodie-bordado-fruit-of-the-loom--p00362753.html",
-    "https://www.zara.com/mx/es/hoodie-capibara-capyfun---p05643701.html",
-    "https://www.zara.com/mx/es/hoodie-estampado-cerezas-animal-print-p05643706.html",
-    "https://www.zara.com/mx/es/hoodie-estampado-p05431723.html",
-    "https://www.zara.com/mx/es/hoodie-estampado-perro-p05879705.html",
-    "https://www.zara.com/mx/es/hoodie-estampado-texto-p05431769.html",
-    "https://www.zara.com/mx/es/hoodie-estampado-zootropolis---disney-p05767714.html",
-    "https://www.zara.com/mx/es/hoodie-felpa-zipper-p00257701.html",
-    "https://www.zara.com/mx/es/hoodie-jennie----p04479703.html",
-    "https://www.zara.com/mx/es/hoodie-parche-estrella-p05879703.html",
-    "https://www.zara.com/mx/es/hoodie-parches-estrellas-p00613706.html",
-    "https://www.zara.com/mx/es/hoodie-psg---p03854759.html",
-    "https://www.zara.com/mx/es/hoodie-tachuelas-estrellas-p05788710.html",
-    "https://www.zara.com/mx/es/hoodie-zipper-alas-lentejuelas-p02236720.html",
-    "https://www.zara.com/mx/es/hoodie-zipper-cropped-brasil-p05431705.html",
-    "https://www.zara.com/mx/es/hoodie-zipper-logo-fruit-of-the-loom--p04644707.html",
-    "https://www.zara.com/mx/es/hoodie-zipper-p00257702.html",
-    "https://www.zara.com/mx/es/hoodie-zipper-texto-p06333707.html",
-    "https://www.zara.com/mx/es/impermeable-engomado-p08073708.html",
-    "https://www.zara.com/mx/es/jean-pierna-ancha-efecto-lavado-p09632706.html",
-    "https://www.zara.com/mx/es/jeans-acampanados-bolsillos-p06103700.html",
-    "https://www.zara.com/mx/es/jeans-acampanados-p00159700.html",
-    "https://www.zara.com/mx/es/jeans-barrel-animal-print-con-pedreria-p04441724.html",
-    "https://www.zara.com/mx/es/jeans-barrel-bajo-vuelta-p04551631.html",
-    "https://www.zara.com/mx/es/jeans-barrel-con-parches-de-estrellas-p00327700.html",
-    "https://www.zara.com/mx/es/jeans-barrel-p03777702.html",
-    "https://www.zara.com/mx/es/jeans-barrel-p04147604.html",
-    "https://www.zara.com/mx/es/jeans-barrel-tachas-p01300700.html",
-    "https://www.zara.com/mx/es/jeans-cargo-de-pierna-ancha-p06688701.html",
-    "https://www.zara.com/mx/es/jeans-con-vuelta-en-el-bajo-y-estampado-floral-p00595717.html",
-    "https://www.zara.com/mx/es/jeans-de-pierna-ancha-fluido-p00159702.html",
-    "https://www.zara.com/mx/es/jeans-de-pierna-ancha-p07227708.html",
-    "https://www.zara.com/mx/es/jeans-de-pierna-ancha-rotos-p05252703.html",
-    "https://www.zara.com/mx/es/jeans-globo-fluidos-p04441712.html",
-    "https://www.zara.com/mx/es/jeans-globo-gomas-fluido-p03777701.html",
-    "https://www.zara.com/mx/es/jeans-globo-rotos-p04676703.html",
-    "https://www.zara.com/mx/es/jeans-loose-efecto-lavado-p06186705.html",
-    "https://www.zara.com/mx/es/jeans-loose-fruit-of-the-loom--p00159706.html",
-    "https://www.zara.com/mx/es/jeans-marine-animal-print-p06917606.html",
-    "https://www.zara.com/mx/es/jeans-marine-p00595700.html",
-    "https://www.zara.com/mx/es/jeans-marine-p07227703.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-cinturon-p08727700.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-con-trabillas-p06917701.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-cordones-p03777600.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-cordones-p04441615.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-estrella-brillo-p03333700.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-kpop-demon-hunters--netflix---p04441723.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-p00595735.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-p04152600.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-p05359601.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-parches-estrellas-p04551707.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-rayas-p04441746.html",
-    "https://www.zara.com/mx/es/jeans-pierna-ancha-tachas-p04551780.html",
-    "https://www.zara.com/mx/es/jeans-skinny-p04806700.html",
-    "https://www.zara.com/mx/es/jeans-straight-fruit-of-the-loom--p00159705.html",
-    "https://www.zara.com/mx/es/jeans-straight-fruit-of-the-loom--p00327706.html",
-    "https://www.zara.com/mx/es/jeans-straight-p00159703.html",
-    "https://www.zara.com/mx/es/jeans-straight-p04551600.html",
-    "https://www.zara.com/mx/es/jeans-straight-rotos-y-tachas-p04551705.html",
-    "https://www.zara.com/mx/es/jeans-straight-vuelta-p05252706.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-bolsillos-corazon-p04676701.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-bolsillos-p07227701.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-estampado-estrellas-estoperoles-p06045700.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-flores-bordadas-strass-p04551648.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-fluido-con-estoperoles-p04441725.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-p06045702.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-parche-estrella-p04676702.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-patchwork-p04365700.html",
-    "https://www.zara.com/mx/es/jeans-wide-leg-strass-p03333701.html",
-    "https://www.zara.com/mx/es/jersey-punto-100-cashmere-p01505700.html",
-    "https://www.zara.com/mx/es/jersey-punto-cuello-desmontable-p03920700.html",
-    "https://www.zara.com/mx/es/jersey-punto-cuello-pico-p03471700.html",
-    "https://www.zara.com/mx/es/jersey-punto-flecos-p02756700.html",
-    "https://www.zara.com/mx/es/jersey-red-rayas-p09874701.html",
-    "https://www.zara.com/mx/es/jersey-red-texto-p09874700.html",
-    "https://www.zara.com/mx/es/jumpsuit-largo-sporty-p02878718.html",
-    "https://www.zara.com/mx/es/legging-corto-brasil-p09007711.html",
-    "https://www.zara.com/mx/es/legging-corto-espana-p09007719.html",
-    "https://www.zara.com/mx/es/legging-corto-estrellas-lentejuelas-p01681701.html",
-    "https://www.zara.com/mx/es/legging-corto-portugal-p09007710.html",
-    "https://www.zara.com/mx/es/legging-seamless-gym-p02236708.html",
-    "https://www.zara.com/mx/es/leggings-acampanados-de-punto-p05536718.html",
-    "https://www.zara.com/mx/es/leggings-acampanados-lisos-p02335709.html",
-    "https://www.zara.com/mx/es/leggings-acampanados-punto-roma-p01608007.html",
-    "https://www.zara.com/mx/es/leggings-ciclista-liso-p02335700.html",
-    "https://www.zara.com/mx/es/leggings-ciclista-rayas-pukas-surf-p09000710.html",
-    "https://www.zara.com/mx/es/leggings-cortos-pukas-surf-p09000703.html",
-    "https://www.zara.com/mx/es/leggings-cortos-rib-p09006650.html",
-    "https://www.zara.com/mx/es/leggings-rib-acampanados-p09003701.html",
-    "https://www.zara.com/mx/es/leggings-rib-con-etiqueta-p00895704.html",
-    "https://www.zara.com/mx/es/leggings-sporty-con-ribete-a-contraste-p02878719.html",
-    "https://www.zara.com/mx/es/leggings-sporty-vivos-contraste-p02878721.html",
-    "https://www.zara.com/mx/es/lm-drss-p06094409.html",
-    "https://www.zara.com/mx/es/mono-corto-jaretas-p01639715.html",
-    "https://www.zara.com/mx/es/mono-corto-rayas-p01639620.html",
-    "https://www.zara.com/mx/es/mono-largo-con-lino-p07251710.html",
-    "https://www.zara.com/mx/es/neceser-acolchado-p11171830.html",
-    "https://www.zara.com/mx/es/overol-largo-de-mezclilla-barrel-p04441711.html",
-    "https://www.zara.com/mx/es/pack-camisa-rayas-y-camiseta-rib-bordada-p08741715.html",
-    "https://www.zara.com/mx/es/pack-camisa-y-top-fruncido-rayas-y-aplique-lentejuelas-p04786721.html",
-    "https://www.zara.com/mx/es/pack-cuatro-coleteros-rayas-y-flores-p04701701.html",
-    "https://www.zara.com/mx/es/pack-dos-leggings-lisos-p09000712.html",
-    "https://www.zara.com/mx/es/pack-tres-calcetines-medios-rayas-deportivas-p06068556.html",
-    "https://www.zara.com/mx/es/pack-tres-leggings-lisos-p09000713.html",
-    "https://www.zara.com/mx/es/pack-tres-playeras-lisas-p09000700.html",
-    "https://www.zara.com/mx/es/pack-tres-playeras-lisas-p09000716.html",
-    "https://www.zara.com/mx/es/pack-tres-playeras-rayas-y-lisas-p09000715.html",
-    "https://www.zara.com/mx/es/pantalon-acampanado-alas-p02236716.html",
-    "https://www.zara.com/mx/es/pantalon-acampanado-cargo-p06246328.html",
-    "https://www.zara.com/mx/es/pantalon-acampanado-con-botones-p06241249.html",
-    "https://www.zara.com/mx/es/pantalon-acampanado-pana-p06242326.html",
-    "https://www.zara.com/mx/es/pantalon-acampanado-sporty-color-block-p03183725.html",
-    "https://www.zara.com/mx/es/pantalon-baggy-de-pana-con-pinzas-p08574825.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-estampado-p04441748.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-estampado-p06335476.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-estampado-rayas-p06317414.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-estampado-uefa-champions-league---p03854909.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-liso-p06238082.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-rayas-p06090260.html",
-    "https://www.zara.com/mx/es/pantalon-barrel-rayas-p06296416.html",
-    "https://www.zara.com/mx/es/pantalon-bombacho-textura-p01681601.html",
-    "https://www.zara.com/mx/es/pantalon-cargo-bolsillos-p01063600.html",
-    "https://www.zara.com/mx/es/pantalon-carpenter-bolsillos-p06688704.html",
-    "https://www.zara.com/mx/es/pantalon-carpenter-efecto-encerado-p00327704.html",
-    "https://www.zara.com/mx/es/pantalon-carpenter-estampado-rayas-p06124166.html",
-    "https://www.zara.com/mx/es/pantalon-cintura-cruzada-p06143081.html",
-    "https://www.zara.com/mx/es/pantalon-de-felpa-sport-varsity-p00208703.html",
-    "https://www.zara.com/mx/es/pantalon-de-pierna-ancha-con-bandas-en-contraste-p08054705.html",
-    "https://www.zara.com/mx/es/pantalon-de-pierna-ancha-soft-touch-p02236718.html",
-    "https://www.zara.com/mx/es/pantalon-de-punto-pierna-ancha-p03471708.html",
-    "https://www.zara.com/mx/es/pantalon-efecto-lavado-cinturon-p06688703.html",
-    "https://www.zara.com/mx/es/pantalon-felpa-barrel-bordado-fruit-of-the-loom--p00362717.html",
-    "https://www.zara.com/mx/es/pantalon-felpa-jogging-p00935714.html",
-    "https://www.zara.com/mx/es/pantalon-flare-con-vuelta-y-frunce-p05580701.html",
-    "https://www.zara.com/mx/es/pantalon-flare-gym-p00673711.html",
-    "https://www.zara.com/mx/es/pantalon-flare-rayas-p06092035.html",
-    "https://www.zara.com/mx/es/pantalon-flock-con-hebilla-p02847810.html",
-    "https://www.zara.com/mx/es/pantalon-globo-bordado-fruit-of-the-loom--p04644704.html",
-    "https://www.zara.com/mx/es/pantalon-globo-estampado-rayas-p02402750.html",
-    "https://www.zara.com/mx/es/pantalon-globo-rayas-bordado-flores-p06176229.html",
-    "https://www.zara.com/mx/es/pantalon-globo-rayas-con-lino-p06122098.html",
-    "https://www.zara.com/mx/es/pantalon-globo-textura-p06123126.html",
-    "https://www.zara.com/mx/es/pantalon-jogger-tecnico-gym-p02878717.html",
-    "https://www.zara.com/mx/es/pantalon-jogger-waffle-gym-p03183706.html",
-    "https://www.zara.com/mx/es/pantalon-jogging-pierna-ancha-p05431738.html",
-    "https://www.zara.com/mx/es/pantalon-liso-sporty-p08054733.html",
-    "https://www.zara.com/mx/es/pantalon-lona-pierna-ancha-p06186702.html",
-    "https://www.zara.com/mx/es/pantalon-pana-barrel-p08574815.html",
-    "https://www.zara.com/mx/es/pantalon-pana-barrel-p08574830.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-aplique-parches-estrellas-p05879702.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-bandas-p06224719.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-con-dobladillo-p01165731.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-con-roturas-p06688700.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-doble-cintura-p01608770.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-efecto-arrugado-p02847751.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-efecto-piel-p00562750.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-estampado-de-rosas-p04551717.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-olanes-contraste-p09874709.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-p04424070.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-pukas-surf-p05431008.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-rayas-doble-cinturilla-p01608771.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-rayas-p00327701.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-sporty-contraste-p08054722.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-sporty-vivo-rayas-p02236714.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-strass-p07227704.html",
-    "https://www.zara.com/mx/es/pantalon-pierna-ancha-vivos-p06333706.html",
-    "https://www.zara.com/mx/es/pantalon-punto-rayas-p02582703.html",
-    "https://www.zara.com/mx/es/pantalon-recto-rayas-p01639855.html",
-    "https://www.zara.com/mx/es/pantalon-relax-fit-a-cuadros-100-lino-clara-cebrian---p06917810.html",
-    "https://www.zara.com/mx/es/pantalon-sarga-barrel-p06239263.html",
-    "https://www.zara.com/mx/es/pantalon-tailored-fit-barrel-cintura-cruzada-p03153780.html",
-    "https://www.zara.com/mx/es/pantalon-vivos-contraste-sporty-p03183727.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-bandas-estrellas-p01165759.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-cargo-p06336476.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-cinturilla-doble-p01608725.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-cuadro-vichy-p06039038.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-efecto-arrugado-p02847750.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-efecto-lavado-estrellas-p05879700.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-efecto-lavado-p00935709.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-gym-p02236704.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-gym-p02236706.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-heavy-weight-p04424700.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-interlock-p04174700.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-pijamero-p02236605.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-pinzas-interlock-p01608702.html",
-    "https://www.zara.com/mx/es/pantalon-wide-leg-tachas-p08675706.html",
-    "https://www.zara.com/mx/es/pants-afelpado-pierna-ancha-con-estampado-de-texto-p02236717.html",
-    "https://www.zara.com/mx/es/pants-felpa-pierna-ancha-parche-p06333705.html",
-    "https://www.zara.com/mx/es/pants-jogger-de-felpa-psg---p03854758.html",
-    "https://www.zara.com/mx/es/paquete-siete-calcetines-largos-rayas-p04547745.html",
-    "https://www.zara.com/mx/es/peto-largo-pana-p08574701.html",
-    "https://www.zara.com/mx/es/playera-acid-wash-estampado-de-estrellas-y-texto-p06224728.html",
-    "https://www.zara.com/mx/es/playera-alamares-cuello-de-tira-p09006719.html",
-    "https://www.zara.com/mx/es/playera-alamares-p01165711.html",
-    "https://www.zara.com/mx/es/playera-aplique-tachas-p02614716.html",
-    "https://www.zara.com/mx/es/playera-argentina-copa-mundial-fifa---2026-p06208601.html",
-    "https://www.zara.com/mx/es/playera-basica-efecto-lavado-p05048600.html",
-    "https://www.zara.com/mx/es/playera-bordada-y-estampada-clara-cebrian---p04805697.html",
-    "https://www.zara.com/mx/es/playera-bordado-fruit-of-the-loom-p02335732.html",
-    "https://www.zara.com/mx/es/playera-chiikawa-p02614701.html",
-    "https://www.zara.com/mx/es/playera-chiikawa-p02614703.html",
-    "https://www.zara.com/mx/es/playera-clara-cebrian---p09000720.html",
-    "https://www.zara.com/mx/es/playera-combinada-bordado-suizo-p04770701.html",
-    "https://www.zara.com/mx/es/playera-combinada-encaje-p01165615.html",
-    "https://www.zara.com/mx/es/playera-con-estampado-de-texto-p04424721.html",
-    "https://www.zara.com/mx/es/playera-con-texto-estampado-p04424714.html",
-    "https://www.zara.com/mx/es/playera-contraste-bordado-fruit-of-the-loom--p02335796.html",
-    "https://www.zara.com/mx/es/playera-contraste-estampado-numero-p06224727.html",
-    "https://www.zara.com/mx/es/playera-cuello-con-vuelta-rayas-p09007781.html",
-    "https://www.zara.com/mx/es/playera-cuello-panadero-p05644824.html",
-    "https://www.zara.com/mx/es/playera-cuello-panadero-p09007773.html",
-    "https://www.zara.com/mx/es/playera-doble-contraste-p09007619.html",
-    "https://www.zara.com/mx/es/playera-efecto-lavado-kpop-demon-hunters--netflix---p07878701.html",
-    "https://www.zara.com/mx/es/playera-efecto-lavado-kpop-demon-hunters--netflix---p07950700.html",
-    "https://www.zara.com/mx/es/playera-estampada-capibara-capyfun-p05643710.html",
-    "https://www.zara.com/mx/es/playera-estampada-capyfun---varsity-p02614706.html",
-    "https://www.zara.com/mx/es/playera-estampada-jennie----p04479700.html",
-    "https://www.zara.com/mx/es/playera-estampada-psg---p02335590.html",
-    "https://www.zara.com/mx/es/playera-estampada-psg---p03854620.html",
-    "https://www.zara.com/mx/es/playera-estampada-rolling-stones---p01277700.html",
-    "https://www.zara.com/mx/es/playera-estampada-rolling-stones---p01277701.html",
-    "https://www.zara.com/mx/es/playera-estampada-rolling-stones---p01277702.html",
-    "https://www.zara.com/mx/es/playera-estampada-team-six-seven-p00962708.html",
-    "https://www.zara.com/mx/es/playera-estampada-team-six-seven-p09000714.html",
-    "https://www.zara.com/mx/es/playera-estampada-team-six-seven-p09000717.html",
-    "https://www.zara.com/mx/es/playera-estampada-texto-p06224722.html",
-    "https://www.zara.com/mx/es/playera-estampada-winnie-the-pooh---p02614711.html",
-    "https://www.zara.com/mx/es/playera-estampado-alemania-fifa-world-cup---2026-p06208612.html",
-    "https://www.zara.com/mx/es/playera-estampado-brasil-fifa-world-cup---2026-p06208630.html",
-    "https://www.zara.com/mx/es/playera-estampado-brasil-p02614710.html",
-    "https://www.zara.com/mx/es/playera-estampado-capibara-capyfun---p07878734.html",
-    "https://www.zara.com/mx/es/playera-estampado-capyfun---cerezas-p02614708.html",
-    "https://www.zara.com/mx/es/playera-estampado-clara-cebrian---p06208777.html",
-    "https://www.zara.com/mx/es/playera-estampado-corazon-p06264703.html",
-    "https://www.zara.com/mx/es/playera-estampado-enanito-blancanieves---disney-p09000724.html",
-    "https://www.zara.com/mx/es/playera-estampado-england-fifa-world-cup---2026-p06208607.html",
-    "https://www.zara.com/mx/es/playera-estampado-espana-fifa-world-cup--2026-p06208605.html",
-    "https://www.zara.com/mx/es/playera-estampado-fotografia-jennie----p04479705.html",
-    "https://www.zara.com/mx/es/playera-estampado-fotografia-pukas-surf-p09007701.html",
-    "https://www.zara.com/mx/es/playera-estampado-fotografico-jennie----p04479702.html",
-    "https://www.zara.com/mx/es/playera-estampado-futbol-p09007756.html",
-    "https://www.zara.com/mx/es/playera-estampado-japon-fifa-world-cup---2026-p06208613.html",
-    "https://www.zara.com/mx/es/playera-estampado-kpop-demon-hunters--netflix---p06208701.html",
-    "https://www.zara.com/mx/es/playera-estampado-kpop-demon-hunters--netflix---p06208704.html",
-    "https://www.zara.com/mx/es/playera-estampado-lisa---p04479704.html",
-    "https://www.zara.com/mx/es/playera-estampado-lisa---p09007770.html",
-    "https://www.zara.com/mx/es/playera-estampado-mexico-fifa-world-cup---2026-p06208611.html",
-    "https://www.zara.com/mx/es/playera-estampado-numero-y-estrellas-p06208721.html",
-    "https://www.zara.com/mx/es/playera-estampado-olivia-rodrigo--p01277703.html",
-    "https://www.zara.com/mx/es/playera-estampado-oso-p02614713.html",
-    "https://www.zara.com/mx/es/playera-estampado-p01716704.html",
-    "https://www.zara.com/mx/es/playera-estampado-perro-p01165709.html",
-    "https://www.zara.com/mx/es/playera-estampado-perro-y-texto-p00962714.html",
-    "https://www.zara.com/mx/es/playera-estampado-pinocchio---disney-p09007750.html",
-    "https://www.zara.com/mx/es/playera-estampado-psg---p03854741.html",
-    "https://www.zara.com/mx/es/playera-estampado-psg---p06208719.html",
-    "https://www.zara.com/mx/es/playera-estampado-rayas-heavy-weight-p04424717.html",
-    "https://www.zara.com/mx/es/playera-estampado-rayas-heavy-weight-p09007757.html",
-    "https://www.zara.com/mx/es/playera-estampado-rayas-heavy-weight-p09007758.html",
-    "https://www.zara.com/mx/es/playera-estampado-rayas-pippi-calzaslargas---astrid-lindgren-company-p06224713.html",
-    "https://www.zara.com/mx/es/playera-estampado-rayas-pukas-surf-p06208852.html",
-    "https://www.zara.com/mx/es/playera-estampado-texto-p00722712.html",
-    "https://www.zara.com/mx/es/playera-estampado-texto-p00722713.html",
-    "https://www.zara.com/mx/es/playera-estampado-texto-p05580705.html",
-    "https://www.zara.com/mx/es/playera-estampado-texto-p09007746.html",
-    "https://www.zara.com/mx/es/playera-estampado-uefa-champions-league---p03854913.html",
-    "https://www.zara.com/mx/es/playera-estampado-uefa-champions-league---p03854932.html",
-    "https://www.zara.com/mx/es/playera-estampado-varsity-p05580703.html",
-    "https://www.zara.com/mx/es/playera-estampado-zootopia---disney-p09007755.html",
-    "https://www.zara.com/mx/es/playera-esther-bunny---p07878705.html",
-    "https://www.zara.com/mx/es/playera-esther-bunny---p07878707.html",
-    "https://www.zara.com/mx/es/playera-estoperoles-y-estrellas-p02614709.html",
-    "https://www.zara.com/mx/es/playera-estrellas-kpop-demon-hunters--netflix---p07950706.html",
-    "https://www.zara.com/mx/es/playera-fifa-world-cup---2026-p06208735.html",
-    "https://www.zara.com/mx/es/playera-flor-relieve-rizo-p01165765.html",
-    "https://www.zara.com/mx/es/playera-fotografia-pukas-surf-p06208813.html",
-    "https://www.zara.com/mx/es/playera-garment-dye-cropped-estampado-fruit-of-the-loom--p09007769.html",
-    "https://www.zara.com/mx/es/playera-gomas-volantes-p01165747.html",
-    "https://www.zara.com/mx/es/playera-heavy-weight-estampada-p05643704.html",
-    "https://www.zara.com/mx/es/playera-kpop-demon-hunters--netflix---p05643707.html",
-    "https://www.zara.com/mx/es/playera-lazos-p05767706.html",
-    "https://www.zara.com/mx/es/playera-lisa-bajo-encaje-p01165805.html",
-    "https://www.zara.com/mx/es/playera-lisa-botones-p09007776.html",
-    "https://www.zara.com/mx/es/playera-lisa-con-modal-p00895707.html",
-    "https://www.zara.com/mx/es/playera-lisa-heavy-weight-p04424701.html",
-    "https://www.zara.com/mx/es/playera-lisa-p00895603.html",
-    "https://www.zara.com/mx/es/playera-lisa-p01716701.html",
-    "https://www.zara.com/mx/es/playera-lisa-p04424703.html",
-    "https://www.zara.com/mx/es/playera-lisa-p05048700.html",
-    "https://www.zara.com/mx/es/playera-manga-larga-lisa-p00895706.html",
-    "https://www.zara.com/mx/es/playera-manga-ranglan-heavy-weight-p09007752.html",
-    "https://www.zara.com/mx/es/playera-manga-ranglan-hello-kitty---sanrio-p06208712.html",
-    "https://www.zara.com/mx/es/playera-manga-ranglan-p09000727.html",
-    "https://www.zara.com/mx/es/playera-manga-ranglan-pukas-surf-p05431893.html",
-    "https://www.zara.com/mx/es/playera-manga-ranglan-pukas-surf-p06208810.html",
-    "https://www.zara.com/mx/es/playera-manga-ranglan-pukas-surf-p09000705.html",
-    "https://www.zara.com/mx/es/playera-manga-sisa-algodon-y-modal-p03641702.html",
-    "https://www.zara.com/mx/es/playera-manga-sisa-algodon-y-modal-p03641703.html",
-    "https://www.zara.com/mx/es/playera-manga-sisa-estampado-p00895702.html",
-    "https://www.zara.com/mx/es/playera-numero-y-tachas-p02614714.html",
-    "https://www.zara.com/mx/es/playera-parche-corazon-p03366700.html",
-    "https://www.zara.com/mx/es/playera-parche-cuadro-vichy-p02614705.html",
-    "https://www.zara.com/mx/es/playera-parche-numero-p07950704.html",
-    "https://www.zara.com/mx/es/playera-parche-print-p02614715.html",
-    "https://www.zara.com/mx/es/playera-pippi-calzaslargas---astrid-lindgren-company-p06224712.html",
-    "https://www.zara.com/mx/es/playera-polo-francia-copa-mundial-fifa---2026-p06208609.html",
-    "https://www.zara.com/mx/es/playera-polo-manga-ranglan-p09000718.html",
-    "https://www.zara.com/mx/es/playera-pukas-surf-p05431896.html",
-    "https://www.zara.com/mx/es/playera-pukas-surf-p09000706.html",
-    "https://www.zara.com/mx/es/playera-rayas-cinnamoroll---sanrio-p06224705.html",
-    "https://www.zara.com/mx/es/playera-rayas-con-modal-p03641718.html",
-    "https://www.zara.com/mx/es/playera-rayas-contraste-p05767705.html",
-    "https://www.zara.com/mx/es/playera-rayas-estampado-nirvana---p02160702.html",
-    "https://www.zara.com/mx/es/playera-rayas-estampado-ny-p05431711.html",
-    "https://www.zara.com/mx/es/playera-rayas-estampado-texto-p05431750.html",
-    "https://www.zara.com/mx/es/playera-rayas-fruit-of-the-loom--p09006725.html",
-    "https://www.zara.com/mx/es/playera-rayas-heavy-weight-p04424720.html",
-    "https://www.zara.com/mx/es/playera-rayas-loose-fit-p09007723.html",
-    "https://www.zara.com/mx/es/playera-rayas-manga-larga-p02335710.html",
-    "https://www.zara.com/mx/es/playera-rayas-p09000719.html",
-    "https://www.zara.com/mx/es/playera-rayas-p09006713.html",
-    "https://www.zara.com/mx/es/playera-rayas-parche-numero-p07878704.html",
-    "https://www.zara.com/mx/es/playera-rayas-pukas-surf-p06208800.html",
-    "https://www.zara.com/mx/es/playera-rayas-smileyworld---p07878731.html",
-    "https://www.zara.com/mx/es/playera-rayas-texto-frunce-p06264704.html",
-    "https://www.zara.com/mx/es/playera-rib-bordado-abalorios-p09007774.html",
-    "https://www.zara.com/mx/es/playera-rib-bordado-fruit-of-the-loom--p09006730.html",
-    "https://www.zara.com/mx/es/playera-rib-bordado-perlas-p00962711.html",
-    "https://www.zara.com/mx/es/playera-rib-capibara-capyfun---p08675609.html",
-    "https://www.zara.com/mx/es/playera-rib-cuello-pico-p03253702.html",
-    "https://www.zara.com/mx/es/playera-rib-cuello-v-rayas-p03253703.html",
-    "https://www.zara.com/mx/es/playera-rib-lisa-p09007735.html",
-    "https://www.zara.com/mx/es/playera-rib-lisa-p09007754.html",
-    "https://www.zara.com/mx/es/playera-rib-manga-sisa-p09007760.html",
-    "https://www.zara.com/mx/es/playera-rib-melange-p04424704.html",
-    "https://www.zara.com/mx/es/playera-rib-nadadora-p04424615.html",
-    "https://www.zara.com/mx/es/playera-rib-p09007704.html",
-    "https://www.zara.com/mx/es/playera-rib-pukas-surf-p09000707.html",
-    "https://www.zara.com/mx/es/playera-rib-rayas-p04424706.html",
-    "https://www.zara.com/mx/es/playera-rib-rayas-p09007737.html",
-    "https://www.zara.com/mx/es/playera-rib-rayas-p09007761.html",
-    "https://www.zara.com/mx/es/playera-romantica-con-jaretas-y-encaje-p09007718.html",
-    "https://www.zara.com/mx/es/playera-romantica-cuello-bobo-p09007717.html",
-    "https://www.zara.com/mx/es/playera-rustica-de-algodon-p04424709.html",
-    "https://www.zara.com/mx/es/playera-rustica-de-rayas-p09007741.html",
-    "https://www.zara.com/mx/es/playera-rustica-lisa-p09007740.html",
-    "https://www.zara.com/mx/es/playera-soft-touch-p02236719.html",
-    "https://www.zara.com/mx/es/playera-sporty-estampado-p06224754.html",
-    "https://www.zara.com/mx/es/playera-sporty-vivo-contraste-p02878720.html",
-    "https://www.zara.com/mx/es/playera-tachuelas-bajo-encaje-p01165728.html",
-    "https://www.zara.com/mx/es/playera-texto-bordado-clara-cebrian---p06208778.html",
-    "https://www.zara.com/mx/es/playera-texto-pukas-surf-p05431890.html",
-    "https://www.zara.com/mx/es/playera-usa-fifa-world-cup---2026-p06208604.html",
-    "https://www.zara.com/mx/es/playera-varsity-cinnamoroll---sanrio-p06208713.html",
-    "https://www.zara.com/mx/es/playera-vivos-contraste-p08675703.html",
-    "https://www.zara.com/mx/es/playera-volantes-tachas-p01165746.html",
-    "https://www.zara.com/mx/es/polo-de-punto-doble-cuello-p02488703.html",
-    "https://www.zara.com/mx/es/polo-de-rayas-grueso-p09007751.html",
-    "https://www.zara.com/mx/es/polo-pique-cuello-bobo-p09007705.html",
-    "https://www.zara.com/mx/es/polo-pique-cuello-bobo-p09007706.html",
-    "https://www.zara.com/mx/es/polo-pique-cuello-halter-p03198703.html",
-    "https://www.zara.com/mx/es/polo-rayas-bordado-fruit-of-the-loom--p02335720.html",
-    "https://www.zara.com/mx/es/polo-rayas-fruit-of-the-loom-p02756719.html",
-    "https://www.zara.com/mx/es/polo-rayas-y-numero-p07950615.html",
-    "https://www.zara.com/mx/es/polo-rib-zipper-contraste-p05536738.html",
-    "https://www.zara.com/mx/es/polo-sporty-contraste-p06224767.html",
-    "https://www.zara.com/mx/es/polo-sporty-zipper-p00673701.html",
-    "https://www.zara.com/mx/es/schffl-pnt-p06109402.html",
-    "https://www.zara.com/mx/es/schffl-shrt-p06104402.html",
-    "https://www.zara.com/mx/es/shopper-manhattan-p11208830.html",
-    "https://www.zara.com/mx/es/sobrecamisa-canvas-bolsillos-p06688705.html",
-    "https://www.zara.com/mx/es/sobrecamisa-lisa-pana-p06350324.html",
-    "https://www.zara.com/mx/es/storiesz---calcetin-medio-con-lana-y-cashmere-p01554575.html",
-    "https://www.zara.com/mx/es/strp-shrt-p06086411.html",
-    "https://www.zara.com/mx/es/sudadera-aplicacion-de-lazos-p05431748.html",
-    "https://www.zara.com/mx/es/sudadera-bomber-sporty-p08054799.html",
-    "https://www.zara.com/mx/es/sudadera-bordada-clara-cebrian---p04805661.html",
-    "https://www.zara.com/mx/es/sudadera-bordada-fruit-of-the-loom--p00362774.html",
-    "https://www.zara.com/mx/es/sudadera-bordada-fruit-of-the-loom--p00362786.html",
-    "https://www.zara.com/mx/es/sudadera-bordado-fruit-of-the-loom--p04644706.html",
-    "https://www.zara.com/mx/es/sudadera-color-block-estampada-p05643705.html",
-    "https://www.zara.com/mx/es/sudadera-color-block-sporty-p03183724.html",
-    "https://www.zara.com/mx/es/sudadera-con-aplique-floral-p00208702.html",
-    "https://www.zara.com/mx/es/sudadera-con-bajo-combinado-en-encaje-p05431740.html",
-    "https://www.zara.com/mx/es/sudadera-con-brillo-y-cuello-bobo-en-contraste-p09003706.html",
-    "https://www.zara.com/mx/es/sudadera-con-capucha-estampado-oso-p05431719.html",
-    "https://www.zara.com/mx/es/sudadera-con-capucha-interlock-lisa-p01608703.html",
-    "https://www.zara.com/mx/es/sudadera-con-estoperoles-y-estampado-de-estrella-p05879706.html",
-    "https://www.zara.com/mx/es/sudadera-cremallera-rayas-y-parche-p05431718.html",
-    "https://www.zara.com/mx/es/sudadera-cremallera-tachas-estrella-p00613702.html",
-    "https://www.zara.com/mx/es/sudadera-cropped-waffle-pukas-surf-p09007001.html",
-    "https://www.zara.com/mx/es/sudadera-cuello-doble-p09003707.html",
-    "https://www.zara.com/mx/es/sudadera-cuello-polo-estampado-de-texto-p00208710.html",
-    "https://www.zara.com/mx/es/sudadera-cuello-subido-p02236705.html",
-    "https://www.zara.com/mx/es/sudadera-efecto-lavado-estampada-p00935716.html",
-    "https://www.zara.com/mx/es/sudadera-estampada-kpop-demon-hunters--netflix---p00208701.html",
-    "https://www.zara.com/mx/es/sudadera-estampada-kpop-demon-hunters--netflix---p06333703.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-brasil-p05431741.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-flock-team-six-seven-p00208720.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-floral-parche-corazones-p05767713.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-numero-p05431716.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-ositos-p00294700.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-perro-p06333708.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-perro-salchicha-p06333710.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-uefa-champions-league---p03854919.html",
-    "https://www.zara.com/mx/es/sudadera-estampado-varsity-p00208704.html",
-    "https://www.zara.com/mx/es/sudadera-jogging-cuello-alto-p05431737.html",
-    "https://www.zara.com/mx/es/sudadera-jogging-lisa-p00935713.html",
-    "https://www.zara.com/mx/es/sudadera-jogging-texto-p06264702.html",
-    "https://www.zara.com/mx/es/sudadera-lazos-flock-p02511713.html",
-    "https://www.zara.com/mx/es/sudadera-lisa-con-costuras-p00257704.html",
-    "https://www.zara.com/mx/es/sudadera-lisa-de-algodon-p04729775.html",
-    "https://www.zara.com/mx/es/sudadera-lisa-heavy-weight-p00257707.html",
-    "https://www.zara.com/mx/es/sudadera-lisa-zipper-p04729776.html",
-    "https://www.zara.com/mx/es/sudadera-logo-bordado-fruit-of-the-loom--p04644705.html",
-    "https://www.zara.com/mx/es/sudadera-parche-estrella-p06333709.html",
-    "https://www.zara.com/mx/es/sudadera-pico-cerezas-p06333701.html",
-    "https://www.zara.com/mx/es/sudadera-pippi-calzaslargas---astrid-lindgren-company-p05431733.html",
-    "https://www.zara.com/mx/es/sudadera-rayas-pippi-calzaslargas---astrid-lindgren-company-p09007777.html",
-    "https://www.zara.com/mx/es/sudadera-sporty-cuello-en-pico-p03183726.html",
-    "https://www.zara.com/mx/es/sudadera-sporty-vivos-contraste-p08054704.html",
-    "https://www.zara.com/mx/es/sudadera-texto-relieve-p06333711.html",
-    "https://www.zara.com/mx/es/sudadera-texto-relieve-sporty-p08054734.html",
-    "https://www.zara.com/mx/es/sudadera-varsity-capibara-capyfun---p07878718.html",
-    "https://www.zara.com/mx/es/sudadera-varsity-texto-p06264705.html",
-    "https://www.zara.com/mx/es/sudadera-zipper-contraste-p03854791.html",
-    "https://www.zara.com/mx/es/sudadera-zipper-cropped-p05879701.html",
-    "https://www.zara.com/mx/es/sudadera-zipper-pukas-surf-p06722823.html",
-    "https://www.zara.com/mx/es/sueter-100-cashmere-p01505701.html",
-    "https://www.zara.com/mx/es/sueter-aplique-tachuelas-p03920708.html",
-    "https://www.zara.com/mx/es/sueter-color-block-estrellas-p05536733.html",
-    "https://www.zara.com/mx/es/sueter-cuello-polo-rayas-p02582707.html",
-    "https://www.zara.com/mx/es/sueter-de-punto-estampado-de-rayas-p00339703.html",
-    "https://www.zara.com/mx/es/sueter-de-punto-estampado-rayas-p00339704.html",
-    "https://www.zara.com/mx/es/sueter-doble-capa-red-p05755704.html",
-    "https://www.zara.com/mx/es/sueter-polo-100-cashmere-p01505707.html",
-    "https://www.zara.com/mx/es/sueter-polo-punto-rayas-p03471709.html",
-    "https://www.zara.com/mx/es/sueter-polo-punto-rayas-p09874702.html",
-    "https://www.zara.com/mx/es/sueter-punto-bandana-flecos-p03471711.html",
-    "https://www.zara.com/mx/es/sueter-punto-combinado-encaje-p03921702.html",
-    "https://www.zara.com/mx/es/sueter-punto-combinado-encaje-p03921703.html",
-    "https://www.zara.com/mx/es/sueter-punto-contraste-p02488713.html",
-    "https://www.zara.com/mx/es/sueter-punto-cremallera-p03920757.html",
-    "https://www.zara.com/mx/es/sueter-punto-cuello-perkins-p05987707.html",
-    "https://www.zara.com/mx/es/sueter-punto-detalle-texto-p02756702.html",
-    "https://www.zara.com/mx/es/sueter-punto-estampado-rayas-p03920714.html",
-    "https://www.zara.com/mx/es/sueter-punto-estrellas-p03920707.html",
-    "https://www.zara.com/mx/es/sueter-punto-flecos-p02756609.html",
-    "https://www.zara.com/mx/es/sueter-punto-liso-p05536701.html",
-    "https://www.zara.com/mx/es/sueter-punto-liso-p05536721.html",
-    "https://www.zara.com/mx/es/sueter-punto-ochos-fruit-of-the-loom--p03920761.html",
-    "https://www.zara.com/mx/es/sueter-punto-rayas-fruit-of-the-loom--p05624700.html",
-    "https://www.zara.com/mx/es/sueter-punto-rayas-frunces-p05536725.html",
-    "https://www.zara.com/mx/es/sueter-punto-rayas-p01473700.html",
-    "https://www.zara.com/mx/es/sueter-punto-rayas-p03920709.html",
-    "https://www.zara.com/mx/es/sueter-punto-varsity-p02209700.html",
-    "https://www.zara.com/mx/es/sueter-punto-volantes-contraste-p09874706.html",
-    "https://www.zara.com/mx/es/sueter-rayas-100-lana-p05987708.html",
-    "https://www.zara.com/mx/es/sueter-red-capucha-p05755702.html",
-    "https://www.zara.com/mx/es/sueter-red-estampado-estrellas-p02488700.html",
-    "https://www.zara.com/mx/es/tenis-deportivos-de-rejilla-p12330830.html",
-    "https://www.zara.com/mx/es/tenis-piso-fino-p12415830.html",
-    "https://www.zara.com/mx/es/top-abullonado-lunares-p06042056.html",
-    "https://www.zara.com/mx/es/top-asimetrico-animal-print-p02335708.html",
-    "https://www.zara.com/mx/es/top-asimetrico-vivos-contraste-p02335701.html",
-    "https://www.zara.com/mx/es/top-bordados-cuadro-vichy-p06036057.html",
-    "https://www.zara.com/mx/es/top-cruzado-gym-p05580702.html",
-    "https://www.zara.com/mx/es/top-estampado-portugal-p09006702.html",
-    "https://www.zara.com/mx/es/top-gym-seamless-p02236709.html",
-    "https://www.zara.com/mx/es/top-halter-estrellas-p08675700.html",
-    "https://www.zara.com/mx/es/top-nido-de-abeja-gomas-p02335703.html",
-    "https://www.zara.com/mx/es/top-nido-de-abeja-resortes-cuadro-vichy-p02335706.html",
-    "https://www.zara.com/mx/es/top-punto-botones-p00334701.html",
-    "https://www.zara.com/mx/es/top-punto-lazos-contraste-p05987700.html",
-    "https://www.zara.com/mx/es/top-punto-rayas-p02582702.html",
-    "https://www.zara.com/mx/es/top-punto-rib-p00339700.html",
-    "https://www.zara.com/mx/es/top-punto-tachas-p05536709.html",
-    "https://www.zara.com/mx/es/top-rayas-botones-p01608641.html",
-    "https://www.zara.com/mx/es/top-rayas-botones-p01639642.html",
-    "https://www.zara.com/mx/es/top-rayas-espalda-cruzada-p01608640.html",
-    "https://www.zara.com/mx/es/top-sporty-vivo-contraste-p02878722.html",
-    "https://www.zara.com/mx/es/trench-corto-bajo-goma-p01255701.html",
-    "https://www.zara.com/mx/es/vestido-alamares-rayas-p06195363.html",
-    "https://www.zara.com/mx/es/vestido-bordado-floral-p01381701.html",
-    "https://www.zara.com/mx/es/vestido-camisero-cuadros-y-volantes-p02675701.html",
-    "https://www.zara.com/mx/es/vestido-combinado-lazo-p01165720.html",
-    "https://www.zara.com/mx/es/vestido-con-apliques-de-ondulina-p06165703.html",
-    "https://www.zara.com/mx/es/vestido-con-tablas-p06140081.html",
-    "https://www.zara.com/mx/es/vestido-cuadros-cuello-bobo-p06161213.html",
-    "https://www.zara.com/mx/es/vestido-de-cuadros-corte-a-p06096811.html",
-    "https://www.zara.com/mx/es/vestido-de-mezclilla-con-bolsillos-p00595703.html",
-    "https://www.zara.com/mx/es/vestido-de-mezclilla-con-botones-p04441850.html",
-    "https://www.zara.com/mx/es/vestido-estampado-de-rayas-p07484710.html",
-    "https://www.zara.com/mx/es/vestido-estampado-flores-p01639701.html",
-    "https://www.zara.com/mx/es/vestido-estampado-flores-p06164215.html",
-    "https://www.zara.com/mx/es/vestido-fajin-con-olan-p01681702.html",
-    "https://www.zara.com/mx/es/vestido-falda-globo-p06279249.html",
-    "https://www.zara.com/mx/es/vestido-falda-organza-p06315492.html",
-    "https://www.zara.com/mx/es/vestido-flores-olanes-p01639702.html",
-    "https://www.zara.com/mx/es/vestido-lencero-combinado-p01165724.html",
-    "https://www.zara.com/mx/es/vestido-lunares-p06041065.html",
-    "https://www.zara.com/mx/es/vestido-manga-ranglan-rayas-p06212262.html",
-    "https://www.zara.com/mx/es/vestido-olanes-tachas-estrellas-p03198702.html",
-    "https://www.zara.com/mx/es/vestido-olanes-y-alamares-p01165723.html",
-    "https://www.zara.com/mx/es/vestido-overol-cuadros-cinturon-p06163207.html",
-    "https://www.zara.com/mx/es/vestido-overol-sarga-bolsillo-p06243263.html",
-    "https://www.zara.com/mx/es/vestido-polo-bordado-oso-p05431724.html",
-    "https://www.zara.com/mx/es/vestido-popelin-tirantes-bordados-p06035481.html",
-    "https://www.zara.com/mx/es/vestido-puntilla-p02675632.html",
-    "https://www.zara.com/mx/es/vestido-punto-pukas-surf-p03198700.html",
-    "https://www.zara.com/mx/es/vestido-rayas-cenefa-p06098130.html",
-    "https://www.zara.com/mx/es/vestido-rayas-pespuntes-contraste-p01608613.html",
-    "https://www.zara.com/mx/es/vestido-tecnico-p06040033.html"
-  ],
   "filas": [
     {
       "FECHA": "2026-09-23",
@@ -1700,9 +950,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "VERDE",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Detalle bordado en delantero. Calidad interior perchada, cálida y suave. Colección especial Fruit of the Loom™ x Zara.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-bordado-fruit-of-the-loom--p04644706.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/f5fb/cc3c/5ebc41dc9e80/e70acaf57d65/04644706500-e1/04644706500-e1.jpg?ts=1788361839661&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1718,9 +968,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado frontal. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n67% algodón\n33% poliéster\nTEJIDO SECUNDARIO\n95% algodón\n5% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-perro-salchicha-p06333710.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8fc3/45de/29e54f59af25/d78035843fe9/06333710620-e1/06333710620-e1.jpg?ts=1788875785656&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1736,9 +986,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Chaqueta con capucha y manga larga. Cierre con cremallera en frontal. Bolsillos en delantero. Detalle texto bordado en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "39% algodón, 28% modal, 27% poliéster, 6% elastano",
       "URL": "https://www.zara.com/mx/es/chaqueta-con-capucha-waffle-gym-p03183707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/19d4/49e6/2aa3484d8f41/fd767f085a63/03183707812-e1/03183707812-e1.jpg?ts=1780990526326&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1754,9 +1004,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga. Acabados en rib. Estampado de texto y oso en el frente. Interior con acabado perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n57% poliéster\n43% algodón\nTEJIDO SECUNDARIO\n50% poliéster\n47% algodón\n3% elastano\nFORRO\n57% poliéster\n43% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-con-capucha-estampado-oso-p05431719.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a635/2490/072046fcb14f/6db9b991820e/05431719812-e1/05431719812-e1.jpg?ts=1785321499075&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1772,9 +1022,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Hoodie de manga larga. Acabados en rib. Parches en forma de estrellas aplicados en delantero y espalda. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "68% poliéster, 30% algodón, 2% viscosa",
       "URL": "https://www.zara.com/mx/es/hoodie-parches-estrellas-p00613706.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/d3cc/0cc7/aca34306b892/97ea93329727/00613706803-e1/00613706803-e1.jpg?ts=1788794165062&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1790,9 +1040,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga en color block. Acabados en rib. Estampado de texto en el delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-color-block-estampada-p05643705.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1937/e3d2/480d4652a09a/43c7eccbaab0/05643705712-e1/05643705712-e1.jpg?ts=1785767264938&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1808,9 +1058,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "LILA",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Detalle de costuras.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n85% algodón\n15% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-lisa-con-costuras-p00257704.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/bbc6/bb6e/1a0c487c8f63/35a944baef49/00257704629-e1/00257704629-e1.jpg?ts=1784130726945&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1826,9 +1076,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con cuello alto y manga larga con puños. Cierre frontal de zipper en canesú. Detalle de logo bordado en pechera. Colección especial Fruit of the Loom™ x Zara.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n79% algodón\n21% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-logo-bordado-fruit-of-the-loom--p04644705.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/d0e7/2673/55934cb9b8d3/92a55265666b/04644705803-e1/04644705803-e1.jpg?ts=1788421320550&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1844,9 +1094,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARINO",
       "DESCRIPCIÓN": "Hoodie con capucha y manga larga. Acabados en rib. Estampado de cerezas animal print en delantero y espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nMATERIAL SECUNDARIO\n98% algodón\n2% elastano\nFORRO\n100% algodón",
       "URL": "https://www.zara.com/mx/es/hoodie-estampado-cerezas-animal-print-p05643706.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/4798/32f8/3fb448a3a6d9/6dc910019ce4/05643706401-e1/05643706401-e1.jpg?ts=1786447171824&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1862,9 +1112,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "VERDE",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Detalle de texto bordado en la parte frontal. Interior afelpado, cálido y suave. Colección especial Fruit of the Loom™ x Zara.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n87% algodón\n13% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-bordada-fruit-of-the-loom--p00362774.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a83d/249d/8d424f3f86bc/e725f5b8da5d/00362774500-e1/00362774500-e1.jpg?ts=1788257674721&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1880,9 +1130,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado de texto y aplique de parche en forma de estrella en el delantero. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n79% algodón\n21% poliéster\nTEJIDO SECUNDARIO\n95% algodón\n5% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-parche-estrella-p06333709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/986d/c3ae/ab03465b8adf/a8d171b37fd5/06333709712-e1/06333709712-e1.jpg?ts=1789469463280&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1898,9 +1148,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA PALO",
       "DESCRIPCIÓN": "Chaqueta con capucha y manga larga. Cierre cremallera frontal. Detalle vivo en color a contraste y estampado texto en pechera. Bajo acabado en goma.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n49% poliéster\n45% viscosa\n6% elastano\nFORRO\n49% poliéster\n45% viscosa\n6% elastano",
       "URL": "https://www.zara.com/mx/es/chaqueta-capucha-gym-p08054701.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/10d4/99e5/5246438e827c/b80fb18f3049/08054701622-e1/08054701622-e1.jpg?ts=1781772017406&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1916,9 +1166,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Hoodie de manga larga. Acabados en rib. Estampado de texto en pechera y mangas. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n79% algodón\n21% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n79% algodón\n21% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-estampado-texto-p05431769.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6af4/e61d/73d14b00948e/b926295c95fe/05431769712-e1/05431769712-e1.jpg?ts=1788245780087&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1934,9 +1184,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Chaqueta con cuello subido y manga larga. Cierre con cremallera frontal. Estampado texto en pechera. Bajo acabado en goma.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "50% viscosa, 41% poliéster, 9% elastano",
       "URL": "https://www.zara.com/mx/es/chaqueta-gym-p00673710.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/c304/8e6a/8cba4ddba857/92c31c45bac5/00673710812-e1/00673710812-e1.jpg?ts=1780924050164&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1952,9 +1202,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROJO",
       "DESCRIPCIÓN": "Sudadera tipo crop con capucha y manga larga. Acabados en rib. Cierre de zipper frontal. Bolsillo de tipo plastrón en delantero. Aplique etiqueta logo en capucha.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n100% algodón\nFORRO\n100% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-cropped-waffle-pukas-surf-p09007001.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ebbd/a0df/2fab471fa04e/06a43c31a71f/09007001600-e1/09007001600-e1.jpg?ts=1779716697157&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1970,9 +1220,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARRÓN / TOPO",
       "DESCRIPCIÓN": "Chamarra con cuello alto y manga larga. Cierre con zipper frontal con detalle de vivo en color a contraste. Bolsillos en delantero. Estampado de texto en pecho. Acabados en resorte elástico.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "51% poliéster, 44% viscosa, 5% elastano",
       "URL": "https://www.zara.com/mx/es/chamarra-sporty-vivo-contraste-p08054723.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8d07/0524/488e46b8a0ab/56131ee8495d/08054723737-e1/08054723737-e1.jpg?ts=1787135531120&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -1988,9 +1238,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "NEGRO",
       "DESCRIPCIÓN": "Chamarra con cuello alto y manga larga. Cierre con zipper frontal con detalle de vivo en color a contraste. Bolsillos en delantero. Estampado de texto en pecho. Acabados en resorte elástico.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "51% poliéster, 44% viscosa, 5% elastano",
       "URL": "https://www.zara.com/mx/es/chamarra-sporty-vivo-contraste-p08054723.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8d07/0524/488e46b8a0ab/56131ee8495d/08054723737-e1/08054723737-e1.jpg?ts=1787135531120&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2006,9 +1256,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA LAVADO",
       "DESCRIPCIÓN": "Conjunto de dos piezas. Sudadera con cuello redondo y manga larga acabada en puño. Bajo acabado en playera. Pantalón de felpa tipo pierna ancha con cinturilla elástica.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "87% algodón, 13% poliéster",
       "URL": "https://www.zara.com/mx/es/conjunto-interlock-sudadera-doble-y-pantalon-pierna-ancha-p00613709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/b4ee/254c/96a7477ab2a3/1a29b456c734/00613709633-e1/00613709633-e1.jpg?ts=1789982053105&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2024,9 +1274,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARRÓN / TOPO",
       "DESCRIPCIÓN": "Conjunto de dos piezas. Sudadera con cuello redondo y manga larga acabada en puño. Bajo acabado en playera. Pantalón de felpa tipo pierna ancha con cinturilla elástica.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "87% algodón, 13% poliéster",
       "URL": "https://www.zara.com/mx/es/conjunto-interlock-sudadera-doble-y-pantalon-pierna-ancha-p00613709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/b4ee/254c/96a7477ab2a3/1a29b456c734/00613709633-e1/00613709633-e1.jpg?ts=1789982053105&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2042,9 +1292,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Hoodie de manga larga. Cierre con zipper frontal. Acabados en rib. Estampado de texto en la pechera y aplicación de parche en forma de estrella en la espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n69% algodón\n31% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/hoodie-parche-estrella-p05879703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/cde5/87ba/954a475f9af4/50057fd29362/05879703620-e1/05879703620-e1.jpg?ts=1783350453108&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2060,9 +1310,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ARENA",
       "DESCRIPCIÓN": "Hoodie de manga larga. Cierre con zipper frontal. Acabados en rib. Estampado de texto en la pechera y aplicación de parche en forma de estrella en la espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n69% algodón\n31% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/hoodie-parche-estrella-p05879703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/cde5/87ba/954a475f9af4/50057fd29362/05879703620-e1/05879703620-e1.jpg?ts=1783350453108&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2078,9 +1328,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARRÓN",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga terminada en puño. Acabados en rib. Estampado fotográfico PIPPI CALZASLARGAS © ASTRID LINDGREN COMPANY. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n84% algodón\n16% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-rayas-pippi-calzaslargas---astrid-lindgren-company-p09007777.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/3b4a/cd00/f3a44aafb15f/27cc4c287961/09007777700-e1/09007777700-e1.jpg?ts=1786363100251&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2096,9 +1346,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Chamarra con capucha con acabado de vivo a rayas en contraste y manga larga. Bolsillos frontales.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n49% poliéster\n46% viscosa\n5% elastano\nFORRO\n61% algodón\n39% poliéster",
       "URL": "https://www.zara.com/mx/es/chamarra-capucha-sporty-vivo-rayas-p02236715.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8491/8219/1a2e44f4b294/f5a2a6cbdad3/02236715712-e1/02236715712-e1.jpg?ts=1786607837998&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2114,9 +1364,9 @@
       "PRECIO DESCUENTO": "$349",
       "COLOR": "MARINO",
       "DESCRIPCIÓN": "Hoodie con manga larga. Acabados en rib. Estampado CAPIBARA CAPYFUN © en delantero y espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano\nFORRO\n80% algodón\n20% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-capibara-capyfun---p05643701.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/e332/6c3b/f70e4a98a4ea/51fc7c1d49fa/05643701401-e1/05643701401-e1.jpg?ts=1783064169783&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2132,9 +1382,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BURDEOS",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga. Cierre con zipper frontal. Bolsillos de tipo plastrón en delantero. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n82% algodón\n18% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n82% algodón\n18% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-zipper-p00257702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/638c/eced/97854ce6a362/a19de536517d/00257702606-e1/00257702606-e1.jpg?ts=1784641021273&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2150,9 +1400,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS ANTRACITA",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga. Cierre con zipper frontal. Bolsillos de tipo plastrón en delantero. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n82% algodón\n18% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n82% algodón\n18% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-zipper-p00257702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/638c/eced/97854ce6a362/a19de536517d/00257702606-e1/00257702606-e1.jpg?ts=1784641021273&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2168,9 +1418,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Chamarra con capucha y manga larga. Cierre con zipper frontal. Bolsillos tipo plastrón al frente. Estampado delantero. Interior afelpado, cálido y suave. Bajo con acabado en resorte elástico.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n84% algodón\n16% poliéster\nFORRO\n84% algodón\n16% poliéster",
       "URL": "https://www.zara.com/mx/es/chamarra-capucha-estampado-miami-p05431739.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/9480/2a05/4b0c4bde9166/2bf9ccf8757a/05431739620-e1/05431739620-e1.jpg?ts=1786447378633&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2186,9 +1436,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BERENJENA",
       "DESCRIPCIÓN": "Chaqueta con capucha y manga larga. Cierre cremallera en frontal. Bolsillos en delantero. Aplique texto engomado en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n48% poliéster\n45% viscosa\n7% elastano\nFORRO\n48% poliéster\n45% viscosa\n7% elastano",
       "URL": "https://www.zara.com/mx/es/chaqueta-capucha-gym-p02236703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/eead/b069/d1324d0d8fc7/4e72b91826e6/02236703610-e1/02236703610-e1.jpg?ts=1780927621145&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2204,9 +1454,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Aplique floral en la parte delantera. Interior afelpado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n81% algodón\n19% poliéster\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-con-aplique-floral-p00208702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/9912/df37/9cb149a29df7/21e848fab8c1/00208702712-e1/00208702712-e1.jpg?ts=1788505739444&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2222,9 +1472,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Hoodie con capucha y manga larga. Acabados en rib. Detalle bordado en pechera. Calidad interior perchada, cálida y suave. Colección especial Fruit of the Loom™ x Zara.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n87% algodón\n13% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano\nFORRO\n87% algodón\n13% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-bordado-fruit-of-the-loom--p00362753.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/c9e9/5a7e/fc644ae9a153/03e6dbce60f1/00362753803-e1/00362753803-e1.jpg?ts=1788347119702&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2240,9 +1490,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AMARILLO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Detalle bordado en pechera. Cierre con botones en canesú, ocultos por tapeta. Interior perchado, cálido y suave. Colección especial Fruit of the Loom™ x Zara.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n87% algodón\n13% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-bordada-fruit-of-the-loom--p00362786.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/39df/aff2/522b44a1bc4d/0afacdaacbbe/00362786300-e1/00362786300-e1.jpg?ts=1788257674335&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2258,9 +1508,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ARENA / VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n60% algodón\n40% poliéster\nTEJIDO SECUNDARIO\n57% algodón\n40% poliéster\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-jogging-lisa-p00935713.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6ef3/cbc7/f4c348808f3e/f19b06a30dd5/00935713081-e1/00935713081-e1.jpg?ts=1783417606052&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2276,9 +1526,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con detalle de brillo, cuello bobo combinado y manga larga. Acabados en rib. Cierre de botón tipo lágrima en la espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n83% algodón\n2% viscosa\n15% fibra metalizada\nTEJIDO SECUNDARIO\n92% algodón\n6% viscosa\n2% elastano\nADORNOS\n100% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-con-brillo-y-cuello-bobo-en-contraste-p09003706.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1d0e/04a4/8c664e6da9db/abefaf90f38d/09003706812-e1/09003706812-e1.jpg?ts=1784016788327&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2294,9 +1544,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AZUL LAVADO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado varsity en delantero. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n62% algodón\n38% poliéster\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-varsity-p00208704.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a829/e6b6/abfd496db379/8facf8d8df4c/00208704428-e1/00208704428-e1.jpg?ts=1788190015141&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2312,9 +1562,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado varsity en delantero. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n62% algodón\n38% poliéster\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-varsity-p00208704.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a829/e6b6/abfd496db379/8facf8d8df4c/00208704428-e1/00208704428-e1.jpg?ts=1788190015141&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2330,9 +1580,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BURGUNDY",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado varsity en delantero. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n62% algodón\n38% poliéster\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-varsity-p00208704.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a829/e6b6/abfd496db379/8facf8d8df4c/00208704428-e1/00208704428-e1.jpg?ts=1788190015141&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2348,9 +1598,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Sudadera con cuello alto y manga larga. Acabados en rib. Cierre con zipper en canesú frontal. Estampado de texto en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n66% algodón\n34% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-jogging-texto-p06264702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/04c7/f5f8/7e80469c9ba1/6bd993dfa44b/06264702250-e1/06264702250-e1.jpg?ts=1783064121504&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2366,9 +1616,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARINO",
       "DESCRIPCIÓN": "Sudadera con cuello alto y manga larga. Acabados en rib. Cierre de zipper en canesú frontal. Detalle texto con relieve en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n86% algodón\n14% poliéster\nTEJIDO SECUNDARIO\n95% algodón\n5% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-texto-relieve-p06333711.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/5fff/1726/61424e1a901e/da6fd7608522/06333711401-e1/06333711401-e1.jpg?ts=1789634615667&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2384,9 +1634,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARINO",
       "DESCRIPCIÓN": "Sudadera cuello alto y manga larga con banda en color a contraste. Acabados en rib. Cierre con zipper en canesú. Detalle texto bordado en pechera. Bajo acabado con jareta ajustable. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-jogging-cuello-alto-p05431737.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ea10/4e3e/28b34e22b754/c7296a1c5ec0/05431737401-e1/05431737401-e1.jpg?ts=1786354822485&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2402,9 +1652,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CELESTE",
       "DESCRIPCIÓN": "Sudadera cuello alto y manga larga con banda en color a contraste. Acabados en rib. Cierre con zipper en canesú. Detalle texto bordado en pechera. Bajo acabado con jareta ajustable. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-jogging-cuello-alto-p05431737.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ea10/4e3e/28b34e22b754/c7296a1c5ec0/05431737401-e1/05431737401-e1.jpg?ts=1786354822485&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2420,9 +1670,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Sudadera con cuello en V y manga larga con puño. Acabados en rib. Estampado con texto en la parte frontal.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-varsity-texto-p06264705.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/bebc/d4e9/f7c64943859f/e67befa979ca/06264705712-e1/06264705712-e1.jpg?ts=1786707154321&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2438,9 +1688,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga. Acabados en rib. Cierre cremallera frontal. Detalle tachas en forma estrella en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "77% algodón, 23% poliéster",
       "URL": "https://www.zara.com/mx/es/sudadera-cremallera-tachas-estrella-p00613702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/55af/6d44/de67416c815a/fbbaa681258a/00613702620-e1/00613702620-e1.jpg?ts=1781706084397&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2456,9 +1706,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AZUL CLARO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Tejido de alto gramaje 100% algodón.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n82% algodón\n18% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-lisa-heavy-weight-p00257707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8ddf/2be6/ec704be6a0e6/8a07146341e9/00257707406-e1/00257707406-e1.jpg?ts=1789120283774&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2474,9 +1724,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BERENJENA",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Tejido de alto gramaje 100% algodón.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n82% algodón\n18% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-lisa-heavy-weight-p00257707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8ddf/2be6/ec704be6a0e6/8a07146341e9/00257707406-e1/00257707406-e1.jpg?ts=1789120283774&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2492,9 +1742,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CREMA",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Tejido de alto gramaje 100% algodón.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n82% algodón\n18% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-lisa-heavy-weight-p00257707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8ddf/2be6/ec704be6a0e6/8a07146341e9/00257707406-e1/00257707406-e1.jpg?ts=1789120283774&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2510,9 +1760,9 @@
       "PRECIO DESCUENTO": "$349",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Estampado varsity CAPIBARA CAPYFUN ©. Interior con acabado perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n79% algodón\n21% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-varsity-capibara-capyfun---p07878718.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/154a/babf/427f474ead49/9a0b29a744f6/07878718712-e1/07878718712-e1.jpg?ts=1786376473070&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2528,9 +1778,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARINO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga larga. Estampado de rayas. Tejido con 48% de modal.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "48% algodón, 48% modal, 4% elastano",
       "URL": "https://www.zara.com/mx/es/playera-rayas-con-modal-p03641718.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/4e0a/2da3/766340208729/89a593650dce/03641718401-e1/03641718401-e1.jpg?ts=1789567690874&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2546,9 +1796,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Playera con cuello redondo acabado en rib y manga corta.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-rustica-de-algodon-p04424709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/86de/7ccd/1ae846e682fa/a5e464b0f283/04424709250-e1/04424709250-e1.jpg?ts=1783584732272&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2564,9 +1814,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AMARILLO",
       "DESCRIPCIÓN": "Playera con cuello redondo acabado en rib y manga corta.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-rustica-de-algodon-p04424709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/86de/7ccd/1ae846e682fa/a5e464b0f283/04424709250-e1/04424709250-e1.jpg?ts=1783584732272&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2582,9 +1832,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga corta. Estampado al frente.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-estampado-perro-p01165709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/9e54/cd7f/54194ac7bf0c/1d0ee6635fb8/01165709250-e1/01165709250-e1.jpg?ts=1783346664910&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2600,9 +1850,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga corta. Estampado al frente.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-estampado-perro-p01165709.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/9e54/cd7f/54194ac7bf0c/1d0ee6635fb8/01165709250-e1/01165709250-e1.jpg?ts=1783346664910&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2618,9 +1868,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "VAINILLA",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga larga. Cierre con botones en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "48% algodón, 48% modal, 4% elastano",
       "URL": "https://www.zara.com/mx/es/playera-lisa-botones-p09007776.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/85c7/ae5e/45ff428190fe/3d42801a077a/09007776727-e1/09007776727-e1.jpg?ts=1789630771241&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2636,9 +1886,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA EMPOLVADO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga larga, acabada con resorte. Cierre con botón tipo lágrima en la espalda. Aplique de volantes con tachuelas.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-volantes-tachas-p01165746.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1014/954b/19cf4a6d9f03/54a01b3f486f/01165746676-e1/01165746676-e1.jpg?ts=1789055144436&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2654,9 +1904,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga larga, acabada con resorte. Cierre con botón tipo lágrima en la espalda. Aplique de volantes con tachuelas.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-volantes-tachas-p01165746.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1014/954b/19cf4a6d9f03/54a01b3f486f/01165746676-e1/01165746676-e1.jpg?ts=1789055144436&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2672,9 +1922,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "SALMÓN",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga larga. Cierre con botones en canesú.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "48% algodón, 48% modal, 4% elastano",
       "URL": "https://www.zara.com/mx/es/playera-cuello-panadero-p09007773.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/67d7/9f6c/8a544ee1bc9b/3f2968153940/09007773623-e1/09007773623-e1.jpg?ts=1789630768226&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2690,9 +1940,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MORADO",
       "DESCRIPCIÓN": "Playera con cuello con vuelta y manga larga. Estampado de rayas.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "51% modal, 46% algodón, 3% elastano",
       "URL": "https://www.zara.com/mx/es/playera-cuello-con-vuelta-rayas-p09007781.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/00e3/a946/5d784a7b85b7/32c257e901d4/09007781611-e1/09007781611-e1.jpg?ts=1789646386994&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2708,9 +1958,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga sisa. Aplique de alamares y botones en el frente con detalle de pequeño volante en el bajo.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "95% algodón, 5% elastano",
       "URL": "https://www.zara.com/mx/es/playera-alamares-p01165711.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/87c7/f89f/16b94efeb11f/996bd88fbea2/01165711250-e1/01165711250-e1.jpg?ts=1782982814504&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2726,9 +1976,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARINO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga sisa. Aplique de alamares y botones en el frente con detalle de pequeño volante en el bajo.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "95% algodón, 5% elastano",
       "URL": "https://www.zara.com/mx/es/playera-alamares-p01165711.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/87c7/f89f/16b94efeb11f/996bd88fbea2/01165711250-e1/01165711250-e1.jpg?ts=1782982814504&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2744,9 +1994,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga corta. Bajo asimétrico con acabado en encaje.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-lisa-bajo-encaje-p01165805.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/2ffa/9a39/51334c8788e5/cc341137f07b/01165805250-e1/01165805250-e1.jpg?ts=1779363086359&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2762,9 +2012,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA PASTEL",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga corta. Bajo asimétrico con acabado en encaje.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-lisa-bajo-encaje-p01165805.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/2ffa/9a39/51334c8788e5/cc341137f07b/01165805250-e1/01165805250-e1.jpg?ts=1779363086359&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2780,9 +2030,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS ANTRACITA",
       "DESCRIPCIÓN": "Playera con cuello redondo y manga corta. Estampado de texto y perro al frente.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-estampado-perro-y-texto-p00962714.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/f4d1/d9e6/fb1b4014b023/b6defa8b76ca/00962714807-e1/00962714807-e1.jpg?ts=1789111814033&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2798,9 +2048,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "NEGRO",
       "DESCRIPCIÓN": "Camisa con cuello subido y manga larga acabada en goma elástica. Cierre con botón tipo lágrima en delantero. Bajo acabado en volante con goma elástica. Aplique tachas en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/camisa-volanes-y-tachas-p06410442.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a7ba/e461/d5b6401ba9ee/d1e98a083838/06410442800-e1/06410442800-e1.jpg?ts=1789630775942&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2816,9 +2066,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "VAINILLA",
       "DESCRIPCIÓN": "Blusa con cuello redondo y manga larga terminada en resorte. Cierre de gota con doble botón en la espalda. Detalle de elásticos en el frente. Estampado de rayas.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "98% algodón, 2% elastano",
       "URL": "https://www.zara.com/mx/es/blusa-elasticos-rayas-p06194238.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/d161/b513/566341b69bcb/9e1f3d8cb3e5/06194238727-e1/06194238727-e1.jpg?ts=1786431853319&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2834,9 +2084,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AZUL",
       "DESCRIPCIÓN": "Camisa de mezclilla con cuello marinero y manga larga. Cierre frontal con botones de presión.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "72% algodón, 28% poliéster",
       "URL": "https://www.zara.com/mx/es/camisa-de-mezclilla-cuello-marinero-p04441714.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/584e/0a1e/a58e4ad4a7a0/f2eef929391d/04441714400-e1/04441714400-e1.jpg?ts=1786692764380&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2852,9 +2102,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO / NEGRO",
       "DESCRIPCIÓN": "Camisa con cuello de tira y manga corta. Cierre con botonadura frontal tipo lágrima y aplique alamares. Estampado de rayas.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "98% algodón, 2% elastano",
       "URL": "https://www.zara.com/mx/es/camisa-rayas-aplique-alamares-p06128148.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/f585/e544/6ffa4983bfaa/9509ecbf7714/06128148064-e1/06128148064-e1.jpg?ts=1784112689509&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2870,9 +2120,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga. Cierre con botonadura frontal. Bolsillo de tipo bolsillo de plastrón en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/camisa-popelina-lisa-p05644610.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6f90/9441/664446018cb2/9a9beb3e219a/05644610250-e1/05644610250-e1.jpg?ts=1783430863089&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2888,9 +2138,9 @@
       "PRECIO DESCUENTO": "$269",
       "COLOR": "VERDE",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga. Cierre con botonadura frontal. Bolsillo de tipo bolsillo de plastrón en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/camisa-popelina-lisa-p05644610.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6f90/9441/664446018cb2/9a9beb3e219a/05644610250-e1/05644610250-e1.jpg?ts=1783430863089&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2906,9 +2156,9 @@
       "PRECIO DESCUENTO": "$269",
       "COLOR": "AZUL MEDIO",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga. Cierre con botonadura frontal. Bolsillo de tipo bolsillo de plastrón en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/camisa-popelina-lisa-p05644610.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6f90/9441/664446018cb2/9a9beb3e219a/05644610250-e1/05644610250-e1.jpg?ts=1783430863089&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2924,9 +2174,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AZUL",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga. Cierre frontal con botones de presión. Detalle de costuras en la parte delantera y trasera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "73% algodón, 27% liocel",
       "URL": "https://www.zara.com/mx/es/camisa-mezclilla-costura-p00595702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/074e/c721/cc134508a1a2/cacf0e055145/00595702407-e1/00595702407-e1.jpg?ts=1784894414525&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2942,9 +2192,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "FUCSIA",
       "DESCRIPCIÓN": "Sobrecamisa de pana con cuello camisero y manga larga. Cierre con botones al frente y bolsillos de plastrón en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/sobrecamisa-lisa-pana-p06350324.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/95ef/d34c/f00e4decadc3/3ee5c4b4a8a1/06350324630-e1/06350324630-e1.jpg?ts=1789574510697&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2960,9 +2210,9 @@
       "PRECIO DESCUENTO": "$349",
       "COLOR": "AZUL",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga. Cierre con botonadura frontal. Bolsillo de tipo plastrón en pechera. Aplique de lentejuelas en forma de flor en el frente. Top de cuello redondo y manga sisa. Cierre con botón tipo gota en espalda. Detalle fruncido. Estampado de rayas.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "65% poliéster, 35% algodón",
       "URL": "https://www.zara.com/mx/es/pack-camisa-y-top-fruncido-rayas-y-aplique-lentejuelas-p04786721.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/318c/43e9/008242e08a4d/81801c4eb685/04786721400-e1/04786721400-e1.jpg?ts=1785338028047&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2978,9 +2228,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga corta. Cierre botonadura frontal. Bajo acabado en frunce.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "97% algodón, 3% elastano",
       "URL": "https://www.zara.com/mx/es/camisa-entallada-frunces-p06043049.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/12b3/76bb/33f344e3a277/843e32e87a7a/06043049250-e1/06043049250-e1.jpg?ts=1780471289296&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -2996,9 +2246,9 @@
       "PRECIO DESCUENTO": "$349",
       "COLOR": "AZUL",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga ajustable por cierre botón. Cierre con botonadura frontal. Bolsillo tipo plastrón en pechera. Camiseta rib interior con cuello redondo y manga corta. Bordado texto en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/pack-camisa-rayas-y-camiseta-rib-bordada-p08741715.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ffdf/9889/e90f4f63a547/4be9fa8a7a1c/08741715400-e2/08741715400-e2.jpg?ts=1784733273199&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -3014,9 +2264,9 @@
       "PRECIO DESCUENTO": "$349",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Camisa con cuello camisero y manga larga ajustable por cierre botón. Cierre con botonadura frontal. Bolsillo tipo plastrón en pechera. Camiseta rib interior con cuello redondo y manga corta. Bordado texto en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/pack-camisa-rayas-y-camiseta-rib-bordada-p08741715.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ffdf/9889/e90f4f63a547/4be9fa8a7a1c/08741715400-e2/08741715400-e2.jpg?ts=1784733273199&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -3032,9 +2282,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BURGUNDY",
       "DESCRIPCIÓN": "Camisa con cuello redondo y manga larga. Cierre de botonadura frontal. Detalle de jaretas y alamares en la pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "51% algodón, 49% viscosa",
       "URL": "https://www.zara.com/mx/es/camisa-alamares-jaretas-p05107700.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/b93d/ab84/c618452980c0/01a2d9911bb0/05107700681-e1/05107700681-e1.jpg?ts=1786368726079&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -3050,9 +2300,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CRUDO / NEGRO",
       "DESCRIPCIÓN": "Camisa con cuello camisero, opción de remangado con cierre de botón y manga larga con puño elástico. Cierre frontal de botones. Bajo con acabado tipo globo.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "65% poliéster, 35% algodón",
       "URL": "https://www.zara.com/mx/es/camisa-globo-cuadros-p08741718.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/91f1/4abb/5a4742f9986d/e0ef710c7d97/08741718070-e1/08741718070-e1.jpg?ts=1784561529013&w=631"
     },
     {
       "FECHA": "2026-09-23",
@@ -3068,9 +2318,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO ROTO",
       "DESCRIPCIÓN": "Camisa con cuello alto y manga larga con terminación en pequeño volante. Cierre frontal con abertura tipo lágrima y botón. Detalles bordados y aplicación de jaretas en el frente.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/camisa-romantica-bordada-con-jaretas-p07521713.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/7786/577d/83254be4bd46/918592f9df78/07521713251-e1/07521713251-e1.jpg?ts=1787153056717&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3608,9 +2858,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ARENA / VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n60% algodón\n40% poliéster\nTEJIDO SECUNDARIO\n57% algodón\n40% poliéster\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-jogging-lisa-p00935713.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6ef3/cbc7/f4c348808f3e/f19b06a30dd5/00935713081-e1/00935713081-e1.jpg?ts=1783417606052&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3626,9 +2876,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "TURQUESA VIVO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-lisa-de-algodon-p04729775.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/255b/4177/c75b45cb9195/537d0ec4b282/04729775486-e1/04729775486-e1.jpg?ts=1783942888788&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3644,9 +2894,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "FUCSIA OSCURO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-lisa-de-algodon-p04729775.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/255b/4177/c75b45cb9195/537d0ec4b282/04729775486-e1/04729775486-e1.jpg?ts=1783942888788&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3662,9 +2912,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga. Acabados en rib. Estampado de texto y oso en el frente. Interior con acabado perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n57% poliéster\n43% algodón\nTEJIDO SECUNDARIO\n50% poliéster\n47% algodón\n3% elastano\nFORRO\n57% poliéster\n43% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-con-capucha-estampado-oso-p05431719.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a635/2490/072046fcb14f/6db9b991820e/05431719812-e1/05431719812-e1.jpg?ts=1785321499075&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3680,9 +2930,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARRÓN",
       "DESCRIPCIÓN": "Hoodie de manga larga con capucha. Cierre con zipper frontal. Bolsillos de tipo plastrón al frente. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n80% algodón\n20% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-felpa-zipper-p00257701.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/93d0/fd44/88c64296bb37/239abc99e13b/00257701700-e1/00257701700-e1.jpg?ts=1784641009713&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3698,9 +2948,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "VAINILLA",
       "DESCRIPCIÓN": "Hoodie de manga larga con capucha. Cierre con zipper frontal. Bolsillos de tipo plastrón al frente. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n80% algodón\n20% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-felpa-zipper-p00257701.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/93d0/fd44/88c64296bb37/239abc99e13b/00257701700-e1/00257701700-e1.jpg?ts=1784641009713&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3716,9 +2966,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Hoodie de manga larga con capucha. Cierre con zipper frontal. Bolsillos de tipo plastrón al frente. Acabados en rib. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n80% algodón\n20% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-felpa-zipper-p00257701.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/93d0/fd44/88c64296bb37/239abc99e13b/00257701700-e1/00257701700-e1.jpg?ts=1784641009713&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3734,9 +2984,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROJO",
       "DESCRIPCIÓN": "Sudadera tipo crop con capucha y manga larga. Acabados en rib. Cierre de zipper frontal. Bolsillo de tipo plastrón en delantero. Aplique etiqueta logo en capucha.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n100% algodón\nFORRO\n100% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-cropped-waffle-pukas-surf-p09007001.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ebbd/a0df/2fab471fa04e/06a43c31a71f/09007001600-e1/09007001600-e1.jpg?ts=1779716697157&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3752,9 +3002,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AZULÓN",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Detalle de bordado CLARA CEBRIAN © en pechera y espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-bordada-clara-cebrian---p04805661.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/effa/df67/718241b2bf52/4226259ffafc/04805661420-e1/04805661420-e1.jpg?ts=1783931448640&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3770,9 +3020,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARRÓN",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga terminada en puño. Acabados en rib. Estampado fotográfico PIPPI CALZASLARGAS © ASTRID LINDGREN COMPANY. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n84% algodón\n16% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-rayas-pippi-calzaslargas---astrid-lindgren-company-p09007777.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/3b4a/cd00/f3a44aafb15f/27cc4c287961/09007777700-e1/09007777700-e1.jpg?ts=1786363100251&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3788,9 +3038,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "NEGRO",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n71% poliéster\n25% viscosa\n4% elastano\nFORRO\n65% poliéster\n35% viscosa",
       "URL": "https://www.zara.com/mx/es/sudadera-con-capucha-interlock-lisa-p01608703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/782a/d591/5eef412db775/f56e9291903d/01608703800-e1/01608703800-e1.jpg?ts=1788521164027&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3806,9 +3056,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n71% poliéster\n25% viscosa\n4% elastano\nFORRO\n65% poliéster\n35% viscosa",
       "URL": "https://www.zara.com/mx/es/sudadera-con-capucha-interlock-lisa-p01608703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/782a/d591/5eef412db775/f56e9291903d/01608703800-e1/01608703800-e1.jpg?ts=1788521164027&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3824,9 +3074,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con capucha y manga larga. Acabados en rib. Cierre cremallera y bolsillos en delantero. Estampado rayas y detalle parche en espalda.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano\nFORRO\n100% algodón",
       "URL": "https://www.zara.com/mx/es/sudadera-cremallera-rayas-y-parche-p05431718.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/6b9a/d435/bcf8468b9da8/060c6f7f5e1e/05431718803-e1/05431718803-e1.jpg?ts=1781707627987&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3842,9 +3092,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS ANTRACITA",
       "DESCRIPCIÓN": "Hoodie de manga larga. Acabados en rib. Estampado PSG ® en delantero y espalda. Aplique de parche en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n75% algodón\n25% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano\nFORRO\n75% algodón\n25% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-psg---p03854759.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/f19f/f753/70c845b69609/37c3af3529b8/03854759807-e1/03854759807-e1.jpg?ts=1786095150821&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3860,9 +3110,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "FRAMBUESA",
       "DESCRIPCIÓN": "Sudadera con cuello subido y manga larga. Cierre con cremallera en color a contraste en canesú. Estampado texto en bajo.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "50% poliéster, 42% viscosa, 8% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-cuello-subido-p02236705.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8c28/0f9b/68ce4f86817b/4a7ff604a535/02236705671-e1/02236705671-e1.jpg?ts=1780661289929&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3896,9 +3146,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado team six seven flock en delantero. Aplique etiqueta en manga. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n51% poliéster\n49% algodón\nDETALLES\n50% poliéster\n47% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-flock-team-six-seven-p00208720.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8214/2ccc/09f647cebf0b/5d79b322b259/00208720812-e1/00208720812-e1.jpg?ts=1790089956695&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3914,9 +3164,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MARRÓN",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Bajo con detalle combinado en encaje.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n84% algodón\n16% poliéster\nTEJIDO SECUNDARIO\n97% algodón\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-con-bajo-combinado-en-encaje-p05431740.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/760d/a5c0/46bf4350b0cc/3fb4e490ad80/05431740700-e1/05431740700-e1.jpg?ts=1786603786201&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3932,9 +3182,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Chaqueta con capucha y manga larga. Cierre con cremallera en frontal. Bolsillos en delantero. Detalle texto bordado en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "39% algodón, 28% modal, 27% poliéster, 6% elastano",
       "URL": "https://www.zara.com/mx/es/chaqueta-con-capucha-waffle-gym-p03183707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/19d4/49e6/2aa3484d8f41/fd767f085a63/03183707812-e1/03183707812-e1.jpg?ts=1780990526326&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3950,9 +3200,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Estampado en relieve de UEFA CHAMPIONS LEAGUE ® en el delantero y aplique de etiqueta en la espalda. Interior perchado, cálido y suave. Fabricada bajo licencia por INDITEX, S.A. Hecha en Pakistán. La palabra UEFA, CHAMPIONS LEAGUE y todas las demás marcas, nombres, logotipos, mascotas y trofeos de la UEFA Champions League son propiedad de la UEFA y constituyen marcas registradas, diseños y/o derechos de autor de la UEFA. Todos los derechos reservados.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n75% algodón\n25% poliéster\nTEJIDO SECUNDARIO\n58% algodón\n39% poliéster\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-uefa-champions-league---p03854919.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/aec1/26aa/5d814c5b84f5/cbdbfc6979f2/03854919803-e1/03854919803-e1.jpg?ts=1788355374986&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3968,9 +3218,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "CELESTE",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado floral en delantero con aplique de parche de corazones.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n79% algodón\n21% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-floral-parche-corazones-p05767713.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/f81a/7f3b/8df04c348aa4/3722838a5f80/05767713403-e1/05767713403-e1.jpg?ts=1786603802399&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -3986,9 +3236,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BERENJENA",
       "DESCRIPCIÓN": "Sudadera con cuello polo en V y manga larga. Estampado de texto en el frente.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n100% algodón\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-cuello-polo-estampado-de-texto-p00208710.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/403e/5ca5/ad8642e19ac1/a5b6cc9b0e4f/00208710610-e1/00208710610-e1.jpg?ts=1788865753742&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4004,9 +3254,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MORADO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado KPOP DEMON HUNTERS™ NETFLIX © en delantero y espalda. Calidad interior perchada, cálida y suave. Tejido con 81% algodón.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n81% algodón\n19% poliéster\nDETALLES\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampada-kpop-demon-hunters--netflix---p00208701.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/5415/c148/9b2d467e9517/0a4ae1566787/00208701611-e1/00208701611-e1.jpg?ts=1785936616510&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4022,9 +3272,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "MORADO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga acabada en puño. Detalle texto con relieve en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "51% poliéster, 43% viscosa, 6% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-texto-relieve-sporty-p08054734.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ba56/0137/db3a4b96a7a9/9475f0e913b6/08054734611-e1/08054734611-e1.jpg?ts=1790071785946&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4040,9 +3290,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ANTRACITA OSCURO",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga acabada en puño. Detalle texto con relieve en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "51% poliéster, 43% viscosa, 6% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-texto-relieve-sporty-p08054734.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/ba56/0137/db3a4b96a7a9/9475f0e913b6/08054734611-e1/08054734611-e1.jpg?ts=1790071785946&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4058,9 +3308,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BERENJENA",
       "DESCRIPCIÓN": "Chaqueta con capucha y manga larga. Cierre cremallera en frontal. Bolsillos en delantero. Aplique texto engomado en pechera.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\n48% poliéster\n45% viscosa\n7% elastano\nFORRO\n48% poliéster\n45% viscosa\n7% elastano",
       "URL": "https://www.zara.com/mx/es/chaqueta-capucha-gym-p02236703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/eead/b069/d1324d0d8fc7/4e72b91826e6/02236703610-e1/02236703610-e1.jpg?ts=1780927621145&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4076,9 +3326,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "GRIS VIGORÉ",
       "DESCRIPCIÓN": "Hoodie de manga larga. Acabados en rib. Cierre de zipper frontal. Bolsillos de tipo bolsillo de plastrón en delantero. Estampado de texto en pechera. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n60% poliéster\n40% algodón\nTEJIDO SECUNDARIO\n49% algodón\n49% poliéster\n2% elastano",
       "URL": "https://www.zara.com/mx/es/hoodie-zipper-texto-p06333707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/2ad5/0660/62144b43b672/1a05a5ca3d3f/06333707812-e1/06333707812-e1.jpg?ts=1788505735897&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4094,9 +3344,9 @@
       "PRECIO DESCUENTO": "$349",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Hoodie de manga larga, acabados en rib. Bolsillo tipo canguro en delantero. Estampado ZOOTRÓPOLIS © DISNEY en pechera y espalda. Calidad interior perchada, cálida y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n80% algodón\n20% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano\nFORRO\n80% algodón\n20% poliéster",
       "URL": "https://www.zara.com/mx/es/hoodie-estampado-zootropolis---disney-p05767714.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/baee/a53f/93e34a83a0c9/3cd690bf8e9d/05767714620-e1/05767714620-e1.jpg?ts=1786537104638&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4166,9 +3416,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "ROSA",
       "DESCRIPCIÓN": "Sudadera con cuello redondo y manga larga. Acabados en rib. Estampado frontal. Interior perchado, cálido y suave.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n67% algodón\n33% poliéster\nTEJIDO SECUNDARIO\n95% algodón\n5% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-estampado-perro-salchicha-p06333710.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8fc3/45de/29e54f59af25/d78035843fe9/06333710620-e1/06333710620-e1.jpg?ts=1788875785656&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4184,9 +3434,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "BLANCO",
       "DESCRIPCIÓN": "Sudadera con cuello alto y manga larga. Acabados en rib. Cierre con zipper en canesú frontal. Estampado de texto en delantero.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n66% algodón\n34% poliéster\nTEJIDO SECUNDARIO\n98% algodón\n2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-jogging-texto-p06264702.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/04c7/f5f8/7e80469c9ba1/6bd993dfa44b/06264702250-e1/06264702250-e1.jpg?ts=1783064121504&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4202,9 +3452,9 @@
       "PRECIO DESCUENTO": "N/A",
       "COLOR": "AZULÓN",
       "DESCRIPCIÓN": "Sudadera de cuello alto y manga larga. Acabados en rib. Cierre frontal con zipper. Bolsillos con detalle de vivo en delantero. Detalle de vivos en color a contraste.",
-      "COMPOSICIÓN": "N/A",
+      "COMPOSICIÓN": "EXTERIOR\nTEJIDO PRINCIPAL\n55% poliéster\n45% algodón\nTEJIDO SECUNDARIO\n58% algodón\n39% poliéster\n3% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-zipper-contraste-p03854791.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/044f/a7c5/9fa24f84bfe0/295018438f76/03854791420-e1/03854791420-e1.jpg?ts=1783670102128&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4222,7 +3472,7 @@
       "DESCRIPCIÓN": "Sudadera con cuello doble combinado y manga larga. Acabados en rib. Cierre con botones en canesú. Detalle de texto bordado en pechera.",
       "COMPOSICIÓN": "EXTERIOR: TEJIDO PRINCIPAL\n100% algodón, 100% algodón, DETALLES\n98% algodón\n2% elastano, 98% algodón, 2% elastano",
       "URL": "https://www.zara.com/mx/es/sudadera-cuello-doble-p09003707.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/602a/1dbe/f359436da4e0/493ff02cac02/09003707422-e1/09003707422-e1.jpg?ts=1784034239934&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4240,7 +3490,7 @@
       "DESCRIPCIÓN": "Hoodie de manga larga. Acabados en rib. Zipper frontal. Estampado de texto en relieve en pechera. Estampado de alas con aplicación de lentejuelas en la espalda.",
       "COMPOSICIÓN": "EXTERIOR: TEJIDO PRINCIPAL\n69% poliéster\n31% algodón, 69% poliéster, 31% algodón, TEJIDO SECUNDARIO\n63% poliéster\n35% algodón\n2% elastano, 63% poliéster, 35% algodón, 2% elastano | FORRO: 64% poliéster, 36% algodón",
       "URL": "https://www.zara.com/mx/es/hoodie-zipper-alas-lentejuelas-p02236720.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1bf9/b598/4fe44724be46/ba39c24f992a/02236720807-e1/02236720807-e1.jpg?ts=1784883152198&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4258,7 +3508,7 @@
       "DESCRIPCIÓN": "Hoodie de manga larga. Acabados en rib. Zipper frontal. Estampado de texto en relieve en pechera. Estampado de alas con aplicación de lentejuelas en la espalda.",
       "COMPOSICIÓN": "EXTERIOR: TEJIDO PRINCIPAL\n69% poliéster\n31% algodón, 69% poliéster, 31% algodón, TEJIDO SECUNDARIO\n63% poliéster\n35% algodón\n2% elastano, 63% poliéster, 35% algodón, 2% elastano | FORRO: 64% poliéster, 36% algodón",
       "URL": "https://www.zara.com/mx/es/hoodie-zipper-alas-lentejuelas-p02236720.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1bf9/b598/4fe44724be46/ba39c24f992a/02236720807-e1/02236720807-e1.jpg?ts=1784883152198&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -4276,7 +3526,7 @@
       "DESCRIPCIÓN": "Playera con cuello redondo y manga corta con ribete en color a contraste. Estampado LISA © al frente.",
       "COMPOSICIÓN": "Composición: 100% algodón",
       "URL": "https://www.zara.com/mx/es/playera-estampado-lisa---p09007770.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/883c/c0ff/79924c5c9348/315e3bd76878/09007770712-e1/09007770712-e1.jpg?ts=1788523169478&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17470,7 +16720,7 @@
       "DESCRIPCIÓN": "Jeans de pierna ancha con cinturilla interior ajustable y cierre frontal con botón. Bolsillos delanteros y bolsillos de plastrón en la espalda.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-pierna-ancha-p04152600.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/757e/f6e0/32b74ec89989/cec280b7bacd/04152600250-e1/04152600250-e1.jpg?ts=1773228633460&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17488,7 +16738,7 @@
       "DESCRIPCIÓN": "Jeans tipo pierna ancha con pretina interior ajustable y cierre frontal con botón. Bolsillos frontales y bolsillos de plastrón en espalda. Estampado estilo patchwork.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-wide-leg-patchwork-p04365700.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/663a/222c/cd034d74b207/5d44af92b546/04365700407-e1/04365700407-e1.jpg?ts=1784732080469&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17506,7 +16756,7 @@
       "DESCRIPCIÓN": "Jeans tipo loose con cinturilla interior ajustable y cierre con botón frontal. Bolsillos delanteros y de tipo plastrón en la parte trasera.",
       "COMPOSICIÓN": "60% algodón, 40% liocel",
       "URL": "https://www.zara.com/mx/es/jeans-loose-efecto-lavado-p06186705.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/02cb/eacc/e4b145559c5f/04dcc410cb3d/06186705660-e1/06186705660-e1.jpg?ts=1784130727899&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17524,7 +16774,7 @@
       "DESCRIPCIÓN": "Jeans tipo straight con pretina interior ajustable y cierre con botón al frente. Bolsillos al frente y tipo plastrón en la parte trasera. Bajo acabado con dobladillo.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-straight-p00159703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/d8a4/f8a8/b5cc40f1aa73/ef5a72501a1c/00159703406-e1/00159703406-e1.jpg?ts=1783670088318&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17542,7 +16792,7 @@
       "DESCRIPCIÓN": "Jeans tipo pierna ancha con pretina elástica y cordones ajustables frontales. Bolsillos en delantero y de tipo bolsillo de plastrón en espalda.",
       "COMPOSICIÓN": "69% algodón, 16% modal, 15% liocel",
       "URL": "https://www.zara.com/mx/es/jeans-pierna-ancha-cordones-p03777600.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a63b/fb3b/838244aca7d2/45e4c2adda81/03777600400-e1/03777600400-e1.jpg?ts=1764175028401&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17560,7 +16810,7 @@
       "DESCRIPCIÓN": "Jeans tipo pierna ancha con pretina elástica y cordones ajustables frontales. Bolsillos en delantero y de tipo bolsillo de plastrón en espalda.",
       "COMPOSICIÓN": "69% algodón, 16% modal, 15% liocel",
       "URL": "https://www.zara.com/mx/es/jeans-pierna-ancha-cordones-p03777600.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/a63b/fb3b/838244aca7d2/45e4c2adda81/03777600400-e1/03777600400-e1.jpg?ts=1764175028401&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17578,7 +16828,7 @@
       "DESCRIPCIÓN": "Jeans de pierna ancha con cinturilla interior ajustable y cierre frontal con botón. Bolsillos al frente y bolsillos de plastrón en la espalda. Aplicación de tachas al frente y en la espalda.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-pierna-ancha-tachas-p04551780.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/0679/6d9b/412a45d39b53/ec1eea5e38e8/04551780400-e1/04551780400-e1.jpg?ts=1788423224393&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17596,7 +16846,7 @@
       "DESCRIPCIÓN": "Jeans tipo globo con pretina interior ajustable y cierre frontal con botón. Bolsillos al frente y bolsillos de plastrón en la parte trasera. Detalle de roturas al frente.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-globo-rotos-p04676703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/c0b0/e06a/e6ef42f9b60e/4dca99b1a0c6/04676703400-e1/04676703400-e1.jpg?ts=1784125602294&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17614,7 +16864,7 @@
       "DESCRIPCIÓN": "Pantalón de pierna ancha con cinturilla interior ajustable y cierre frontal con botón. Bolsillos al frente y bolsillos de plastrón en la espalda. Estampado de flores.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/pantalon-pierna-ancha-estampado-de-rosas-p04551717.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/fd84/de5e/612347c7bfbf/31b515128009/04551717802-e1/04551717802-e1.jpg?ts=1788794168681&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17632,7 +16882,7 @@
       "DESCRIPCIÓN": "Jeans tipo globo con cinturilla elástica en la espalda. Bolsillos delanteros. Detalle de pinzas y bajo con acabado en resorte.",
       "COMPOSICIÓN": "78% algodón, 22% liocel",
       "URL": "https://www.zara.com/mx/es/jeans-globo-fluidos-p04441712.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8532/58ab/802c428ba4e4/930037e5f820/04441712400-e1/04441712400-e1.jpg?ts=1782916977157&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17650,7 +16900,7 @@
       "DESCRIPCIÓN": "Jeans tipo pierna ancha con cinturilla interior ajustable y cierre con botón al frente. Bolsillos en delantero y de tipo plastrón en espalda. Estampado KPOP DEMON HUNTERS™ NETFLIX © al frente y en espalda.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-pierna-ancha-kpop-demon-hunters--netflix---p04441723.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/57dd/f6e0/8f674a36bd76/daa948d7f008/04441723400-e1/04441723400-e1.jpg?ts=1785917967378&w=631"
     },
     {
       "FECHA": "2026-09-24",
@@ -17722,7 +16972,7 @@
       "DESCRIPCIÓN": "Jeans tipo barrel con cinturilla interior ajustable y cierre con botón frontal. Bolsillos en delantero y bolsillo de plastrón en espalda. Aplique tachas y detalle rotos en delantero.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-barrel-tachas-p01300700.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/c3c1/3b97/6ecc4e34a6b0/42dc611fbfc8/01300700400-e1/01300700400-e1.jpg?ts=1787729115620&w=650&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17740,7 +16990,7 @@
       "DESCRIPCIÓN": "Jeans tipo barrel con cinturilla interior ajustable y cierre botón frontal. Bolsillos delanteros y de tipo bolsillo de plastrón en espalda. Bajo acabado en vuelta.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-barrel-bajo-vuelta-p04551631.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1edd/c379/b3594a1090d2/ec33a1c0de94/04551631250-e1/04551631250-e1.jpg?ts=1772636245335&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17758,7 +17008,7 @@
       "DESCRIPCIÓN": "Jeans tipo straight con cinturilla interior ajustable y cierre de botón al frente. Bolsillos al frente y bolsillo de plastrón en espalda. Detalle de rotos. Bajo acabado en vuelta.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/jeans-straight-vuelta-p05252706.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/1a0c/facc/6bac4c15835e/e5ab4353f01f/05252706406-e1/05252706406-e1.jpg?ts=1789389800631&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17776,7 +17026,7 @@
       "DESCRIPCIÓN": "Pantalón tipo carpenter con cinturilla interior ajustable y cierre de botón frontal. Bolsillos en el frente y tipo bolsillo de plastrón en la parte trasera.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/pantalon-carpenter-efecto-encerado-p00327704.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/aebc/3b65/c0764a52924b/02b3340c3f5a/00327704402-e1/00327704402-e1.jpg?ts=1783670089522&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17794,7 +17044,7 @@
       "DESCRIPCIÓN": "Leggings cortos con cintura elástica. Tejido en rib.",
       "COMPOSICIÓN": "95% algodón, 5% elastano",
       "URL": "https://www.zara.com/mx/es/leggings-cortos-rib-p09006650.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8b7d/478d/5fac450eab9e/858b828b4ce2/09006650620-090-e1/09006650620-090-e1.jpg?ts=1774512969844&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17812,7 +17062,7 @@
       "DESCRIPCIÓN": "Leggings cortos con cintura elástica. Tejido en rib.",
       "COMPOSICIÓN": "95% algodón, 5% elastano",
       "URL": "https://www.zara.com/mx/es/leggings-cortos-rib-p09006650.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8b7d/478d/5fac450eab9e/858b828b4ce2/09006650620-090-e1/09006650620-090-e1.jpg?ts=1774512969844&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17830,7 +17080,7 @@
       "DESCRIPCIÓN": "Leggings cortos con cintura elástica. Tejido en rib.",
       "COMPOSICIÓN": "N/A",
       "URL": "https://www.zara.com/mx/es/leggings-cortos-rib-p09006650.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/8b7d/478d/5fac450eab9e/858b828b4ce2/09006650620-090-e1/09006650620-090-e1.jpg?ts=1774512969844&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17848,7 +17098,7 @@
       "DESCRIPCIÓN": "Bermuda de mezclilla larga con cinturilla interior ajustable y cierre de botón frontal. Bolsillos delanteros y de tipo bolsillo de plastrón en espalda.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/bermuda-mezclilla-larga-p04441681.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/d7cb/3aa4/e1e64c08ae65/8e5cec6fc078/04441681400-e1/04441681400-e1.jpg?ts=1772104595777&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17866,7 +17116,7 @@
       "DESCRIPCIÓN": "Falda con bermuda interior y cierre zipper oculto en lateral. Aplique de trabillas con botones en el delantero. Estampado de cuadros.",
       "COMPOSICIÓN": "EXTERIOR\n63% poliéster\n34% viscosa\n3% elastano\nFORRO\n100% algodón",
       "URL": "https://www.zara.com/mx/es/falda-tablas-cuadros-aplique-botones-p01639765.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/66c1/26b4/011d4b07892d/c61b9f01a183/01639765068-e1/01639765068-e1.jpg?ts=1783957139852&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17884,7 +17134,7 @@
       "DESCRIPCIÓN": "Falda con short interior. Con cinturilla interior ajustable y cierre zipper oculto en el lateral. Aplique de botón en falso bolsillo delantero. Detalle de tablas.",
       "COMPOSICIÓN": "EXTERIOR\n100% algodón\nFORRO\n100% algodón",
       "URL": "https://www.zara.com/mx/es/falda-tablas-lisa-p06196210.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/091c/0e72/f715472b848e/c7518ea68524/06196210743-e1/06196210743-e1.jpg?ts=1785753105288&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -17902,7 +17152,7 @@
       "DESCRIPCIÓN": "Bermuda larga tipo carpenter con cinturilla interior ajustable y cierre botón frontal. Bolsillos en delantero y de tipo plastrón en espalda. Estampado rayas.",
       "COMPOSICIÓN": "100% algodón",
       "URL": "https://www.zara.com/mx/es/bermuda-larga-carpenter-rayas-p00327703.html",
-      "IMAGEN": "N/A"
+      "IMAGEN": "https://static.zara.net/assets/public/b078/1b93/5ec447fbb926/5e579d1dd57a/00327703046-e1/00327703046-e1.jpg?ts=1781702970604&w=635&f=auto"
     },
     {
       "FECHA": "2026-09-24",
@@ -21379,5 +20629,5 @@
       "IMAGEN": "https://static.zara.net/assets/public/b4ab/735a/8cfc43368b18/bf8729fc4ed1/02548750700-e1/02548750700-e1.jpg?ts=1784538680654&w=631"
     }
   ],
-  "ultima_actualizacion": "2026-09-24T15:43:59"
+  "ultima_actualizacion": "2026-09-25T12:31:20"
 }
